@@ -1,0 +1,4 @@
+root "Autoridades de Certificação Raiz Confiáveis"
+Assinatura coincide com Chave pública
+Certificado "G-Earth nitro support" adicionado ao repositório.
+CertUtil: -addstore : comando concluído com êxito.

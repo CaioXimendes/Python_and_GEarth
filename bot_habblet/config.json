@@ -1,0 +1,1263 @@
+{
+    "plantId": 149,
+	"permissions": ["Baltarr", "CaioO."],
+    "rules": {
+        "accent": false,
+        "caseSensitive": false,
+        "similarity": 1.0
+    },
+    "themes": [
+        {
+            "question": "TEMA________OS 4 ESTADOS PRINCIPAIS DA MATERIA",
+            "answers": ["plasma", "sólido", "gasoso", "líquido"]
+        },
+        {
+            "question": "TEMA________OPERAÇOES MATEMATICA",
+            "answers": ["adição", "subtração", "multiplicação", "divisão"]
+        },
+        {
+            "question": "TEMA________OS 3 PORQUINHOS",
+            "answers": ["prático", "heitor", "cícero"]
+        },
+        {
+            "question": "TEMA________ESTAÇÃO DO ANO",
+            "answers": ["primavera", "outono", "verão", "inverno"]
+        },
+        {
+            "question": "TEMA________HARDWARE DE ARMAZENAMENTO",
+            "answers": ["hd", "ssd", "nvme"]
+        },
+        {
+            "question": "TEMA________FASES DA LUA",
+            "answers": ["nova", "crescente", "cheia", "minguante"]
+        },
+        {
+            "question": "TEMA________PEÇAS DE XADREZ",
+            "answers": ["rei", "bispo", "torre", "rainha", "cavalo", "peão"]
+        },
+        {
+            "question": "TEMA________PAÍSES",
+            "answers": ["afeganistão", "inglaterra", "butao", "botsuana", "san marino", "paquistao", "brasil", "áfrica do sul", "albânia", "alemanha", "andorra", "angola", "antigua e barbuda", "arabia saudita", "argelia", "argentina", "armenia", "australia", "austria", "camboja", "azerbaijao", "bahamas", "bahrein", "bangladesh", "barbados", "belarus", "belgica", "belize", "benin", "timor leste", "bolivia", "bosnia e herzegovina", "botswana", "brunei", "bulgaria", "burkina faso", "burundi", "butao", "cabo verde", "camaroes", "dominica", "curaçao", "canada", "cazaquistao", "chade", "chile", "china", "chipre", "colombia", "comores", "congo", "republica democratica do congo", "coreia do norte", "coreia do sul", "costa do marfim", "costa rica", "croacia", "cuba", "dinamarca", "djibouti", "dominica", "republica dominicana", "egito", "el salvador", "emirados arabes unidos", "equador", "eritreia", "eslovaquia", "eslovenia", "espanha", "estados unidos", "estonia", "etiopia", "fiji", "filipinas", "finlandia", "frança", "gabao", "gambia", "gana", "georgia", "grecia", "granada", "guatemala", "guiana", "guine", "guine bissau", "guine equatorial", "guiana francesa", "haiti", "honduras", "hungria", "iemen", "india", "indonesia", "ira", "iraque", "irlanda", "islandia", "ilhas marshall", "ilhas salomao", "israel", "italia", "jamaica", "japao", "jordania", "kosovo", "kuwait", "quirguistao", "laos", "lesoto", "letonia", "libano", "liberia", "libia", "liechtenstein", "lituania", "luxemburgo", "macedonia do norte", "madagascar", "malaui", "malasia", "maldivas", "mali", "malta", "marrocos", "mauricio", "mauritania", "mexico", "micronesia", "moldavia", "niue", "monaco", "porto rico", "mongolia", "montenegro", "moçambique", "namibia", "nauru", "nepal", "nicaragua", "niger", "nigeria", "noruega", "nova zelandia", "oma", "paises baixos", "palau", "palestina", "panama", "papua nova guine", "paraguai", "peru", "polonia", "portugal", "principado de monaco", "catar", "quenia", "quirguistao", "republica centro-africana", "republica checa", "republica dominicana", "republica do congo", "republica democratica do congo", "romenia", "ruanda", "russia", "samoa", "sao tome e principe", "sao vicente e granadinas", "seicheles", "senegal", "serra leoa", "servia", "singapura", "siria", "somalia", "sri lanka", "estados unidos", "sudao", "sudao do sul", "suecia", "suiça", "suriname", "tailandia", "taiwan", "tajiquistao", "tanzania", "leste timor", "togo", "tonga", "trindade e tobago", "tunisia", "turcomenistao", "turquia", "tuvalu", "ucrania", "uganda", "uruguai", "uzbequistao", "vanuatu", "vaticano", "venezuela", "vietna", "zambia", "zimbabue"]
+        },
+        {
+            "question": "TEMA________ESTADOS DO BRASIL",
+            "answers": ["acre", "alagoas", "amapa", "amazonas", "bahia", "ceara", "distrito federal", "espirito santo", "goias", "maranhao", "mato grosso", "mato grosso do sul", "minas gerais", "para", "paraiba", "parana", "pernambuco", "piaui", "rio de janeiro", "rio grande do norte", "rio grande do sul", "rondonia", "roraima", "santa catarina", "sao paulo", "sergipe", "tocantins"]
+		},
+        {
+			"question": "TEMA________PROTAGONISTAS DO GTA V",
+            "answers": ["trevor", "michael", "franklin"]			
+		},
+        {
+            "question": "TEMA________PAÍSES BRICS (NÃO VALE OS NOVOS MEMBROS)",
+            "answers": ["brasil", "rússia", "índia", "china", "áfrica do sul"]
+		},
+        {
+            "question": "TEMA________CONTINENTES",
+            "answers": ["ámerica", "oceania", "europa", "ásia", "áfrica", "antártida", "antártica"]
+		},
+        {
+            "question": "TEMA________SIGNOS",
+            "answers": ["escorpião", "aquario", "gêmeos", "cancêr", "áries", "touro", "leão", "virgem", "libra", "sagitário", "peixes", "capricornio"]
+		},
+		{
+			"question": "TEMA________FRUTAS",
+			"answers": ["abacate", "jamelao", "mamey", "abrico", "abrunho", "alfarroba", "amendoa", "ananas", "anona", "araça", "atemoia", "avela", "babaco", "babaçu", "bacaba", "bacupari", "baru", "bergamota", "biriba", "buriti", "butia", "cagaita", "calabaça", "calabura", "cambuca", "camu camu", "carnauba", "castanha do para", "ciriguela", "ciruela", "cranberry", "dekopon", "dende", "diospiro", "dovyalis", "duriao", "embauba", "embaubarama", "engkala", "escropari", "esfregadinha", "fruta do conde", "feijoa", "figo da india", "fruta de cedro", "fruta de lobo", "fruta do milagre", "fruta de tatu", "gabiroba", "glicosmis", "granadilla", "gravata", "groselha", "grumixama", "hawthorn", "heisteria", "hilocereo", "ibacurupari", "ilama", "imbe", "imbu", "inaja", "inga", "inhare", "jambolao", "jaracatia", "jatoba", "jeriva", "jua", "jujuba", "kumquat", "kinkan", "kino", "kiwano", "kabosu", "karite", "longan", "lucuma", "lacucha", "lulo", "lobeira", "langsat", "laranja de pacu", "mabolo", "macadamia", "macauba", "mamoncilio", "mana cubiu", "mangostao", "marang", "marmelo", "marolo", "marula", "massala", "mexerica", "naranjilla", "nespera", "noni", "noz", "noz peca", "noz macadamia", "oiti", "oxicoco", "orangelo", "pitomba", "pitangatuba", "pindaiba", "pequi", "pequia", "physalis", "pulasan", "pomelo", "puça", "pataua", "pajura", "pixirica", "pistache", "quina", "rambai", "rambutao", "rukam", "saguaraji", "salak", "santol", "sapucaia", "saputa", "sorvinha", "tamara", "taiuva", "tapia", "tangor", "tucuja", "uchuva", "ume", "uxi", "vacinio", "veludo", "vergamota", "wampi", "xixa", "yamamomo", "yuzu", "zimbro", "cacau", "ata", "meloa", "calamondin", "oxicoco", "airela", "lima", "tomate", "toranja", "abacaxi", "caja", "acerola", "açaí", "amora", "ameixa", "banana", "caju", "caqui", "carambola", "cereja", "damasco", "figo", "framboesa", "goiaba", "graviola", "jabuticaba", "jaca", "jambo", "kiwi", "laranja", "limão", "maçã", "mamão", "manga", "maracujá", "melancia", "melão", "mirtilo", "morango", "nectarina", "pêra", "pêssego", "pitaya", "pitanga", "roma", "sapoti", "tamarindo", "tangerina", "uva", "akee", "abiu", "acaiá", "ajuru", "arando", "araticum", "araza", "bacaba", "bacuri", "cabeludinha", "caimito", "cambuci", "castanha", "coco", "cupuaçu", "curuba", "fruta pão", "gabiroba", "guabiroba", "guabiju", "guanábana", "guarana", "guariroba", "ingá", "jaracatiá", "jaracatiá vermelho", "jenipapo", "jua", "juá", "jubuticaba", "jujuba", "jussara", "lichia", "mamoeiro", "mamona", "mangaba", "mangostim", "maracujá", "marajá", "marang", "marapoama", "marola", "martelao", "melao", "murici", "nêspera", "novato", "olho de cabra", "olho de boi", "orvalha", "palmito", "papaia", "papoila", "pera", "peroba", "pessego", "pinha", "piúna", "populina", "pupunha", "sapota", "seriguela", "siriguela", "taquari", "tatajuba", "tucujú", "tucumã", "tucumã do acre", "tucumã verde", "umbu", "uvaia", "uvalha", "xixá"]
+		},
+        {
+            "question": "TEMA________PRINCIPAIS HEROIS DO FILME VINGADORES (2012)",
+            "answers": ["homem de ferro", "capitao america", "gaviao arqueiro", "viuva negra", "thor", "hulk"]
+		},
+        {
+            "question": "TEMA________MARCAS DE CARRO JAPONESA",
+            "answers": ["Acura", "Daihatsu", "Datsun", "Honda", "Infiniti", "Isuzu", "Lexus", "Mazda", "Mitsubishi", "Mitsuoka", "Nissan", "Subaru", "Suzuki", "Toyota"]
+		},
+        {
+            "question": "TEMA________AS TARTARUGA NINJA",
+            "answers": ["donatello", "michelangelo", "leonardo", "raphael"]
+		},
+        {
+            "question": "TEMA________PALAVRAS DA SIGLA (STF)",
+            "answers": ["supremo", "tribunal", "federal"]
+		},
+        {
+            "question": "TEMA________PALAVRAS DA SIGLA (ENEM)",
+            "answers": ["ensino", "nacional", "exame", "medio"]
+		},
+        {
+            "question": "TEMA________AS MENINAS SUPERPODEROSAS (NÃO VALE A NOVA)",
+            "answers": ["lindinha", "florzinha", "docinho"]
+		},
+        {
+            "question": "TEMA________MARCAS DE CELULARES",
+            "answers": ["Alcatel", "tcl", "AllCall", "positivo", "philco", "Allview", "Amazon", "lg", "Amoi", "Apple", "Archos", "Asus", "Bea-fon", "BlackBerry", "Blackview", "Blu", "BQ", "Casio", "Cat", "Celkon", "Coolpad", "Crosscall", "Cubot", "Doogee", "Doro", "Elephone", "Energizer", "EnergizerHardcase", "Eten", "Fairphone", "Fujitsu", "FujitsuSiemens", "Garmin", "GeeksPhone", "GeneralMobile", "Gigabyte", "Gionee", "Google", "Haier", "Highscreen", "Hisense", "HomTom", "HP", "HTC", "Huawei", "i-mate", "i-mobile", "IUNI", "Jiayu", "Karbonn", "Kyocera", "Landvo", "LeEco", "Leagoo", "Lenovo", "LG", "MaxCom", "Maxon", "Meitu", "Meizu", "Microsoft", "Mitac", "Mobiado", "Motorola", "MWg", "NEC", "Newgen", "Nokia", "Nvidia", "O2", "OnePlus", "Oppo", "Orange", "Oukitel", "Panasonic", "Pantech", "Philips", "Plum", "Posh", "Prestigio", "QMobile", "Qtek", "Razer", "Realme", "RugGear", "Sagem", "Samsung", "Sendo", "Sharp", "Siemens", "Sonim", "Sony", "SonyEricsson", "Spice", "Telit", "THL", "T-Mobile", "Toshiba", "TP-Link", "Ulefone", "Umidigi", "Unnecto", "Vertu", "Verykool", "Vivo", "VK Mobile", "Vodafone", "Wiko", "WND", "XCute", "Xiaomi", "XOLO", "Yezz", "Yota", "YU", "ZTE"]
+		},
+        {
+            "question": "TEMA________OS 3 REIS MAGOS (A VARIAÇÃO MELCHIOR NÃO VALE)",
+            "answers": ["gaspar", "belchior", "baltazar"]
+		},
+        {
+            "question": "TEMA________HEROIS DO QUARTETO FANTASTICO",
+            "answers": ["senhor fantastico", "mulher invisivel", "tocha humana", "coisa"]
+		},
+        {
+            "question": "TEMA________CAPITAIS DA EUROPA",
+            "answers": ["Andorra-a-Velha", "Amsterda", "kiev", "Ancara", "Atenas", "Belgrado", "Berlim", "helsinque", "Berna", "Bratislava", "edimburgo", "Bruxelas", "Bucareste", "Budapeste", "Cidade do Vaticano", "Copenhage", "Dublin", "Estocolmo", "Helsínquia", "Lisboa", "Liubliana", "Londres", "Luxemburgo", "Madrid", "Minsk", "Mónaco", "Moscovo", "Oslo", "Paris", "Podgorica", "Praga", "Reiquiavique", "Riga", "Roma", "Sarajevo", "Skopje", "Sofia", "Talim", "Tirana", "Vaduz", "Valletta", "Varsóvia", "Viena", "Vilnius", "Zagreb", "Estrasburgo", "Gibraltar", "Groenlândia", "Guernsey", "Ilha de Man", "Jersey", "Svalbard"]
+		},
+        {
+            "question": "TEMA________PAÍSES QUE JA GANHARAM COPA DO MUNDO",
+            "answers": ["Alemanha", "Argentina", "Brasil", "Espanha", "França", "Inglaterra", "Itália", "Uruguai"]
+		},
+        {
+            "question": "TEMA________PRINCIPAIS CARGOS POLITICOS NO BRASIL",
+            "answers": ["Presidente", "Vice presidente", "Senador", "Deputado Federal", "Governador", "Deputado Estadual", "Prefeito", "Vereador", "Ministro"]
+		},
+        {
+            "question": "TEMA________PRINCIPAIS PEÇAS DE COMPUTADOR (NÃO VALE PERIFERICO)",
+            "answers": ["hd", "ssd", "memoria ram", "processador", "placa de video", "fonte", "placa mae", "nvme", "cooler", "fan"]
+		},
+        {
+            "question": "TEMA________PERIFERICOS DE COMPUTADOR",
+            "answers": ["monitor", "teclado", "mouse", "webcam", "fone", "caixa de som", "headset", "microfone", "fone de ouvido", "mousepad", "joystick", "controle"]
+		},
+        {
+            "question": "TEMA________JOIAS DO INFINITO (ESCREVA JOIA ANTES DA PALAVRA)",
+            "answers": ["joia do espaço", "joia da alma", "joia do poder", "joia do tempo", "joia da realidade", "joia da mente"]
+		},
+        {
+            "question": "TEMA________AS TRÊS ESPIÃ DEMAIS",
+            "answers": ["sam", "alex", "clover"]
+		},
+        {
+            "question": "TEMA________OS 3 PRINCIPAIS PODERES DO ESTADO DO BRASIL",
+            "answers": ["legislativo", "executivo", "judiciario"]
+		},
+        {
+            "question": "TEMA________PAÍSES COM A LETRA R",
+            "answers": ["Romênia", "Ruanda", "Rússia", "republica dominicana", "República Centro Africana"]
+		},
+        {
+            "question": "TEMA________PLANETAS DO SISTEMA SOLAR",
+            "answers": ["Mercúrio", "Vênus", "Terra", "Marte", "Júpiter", "Saturno", "Urano", "Netuno"]
+		},
+        {
+            "question": "TEMA________PROTAGONISTAS DO GTA SAN ANDREAS",
+            "answers": ["cj", "Sweet", "Big Smoke", "ryder"]
+		},
+        {
+            "question": "TEMA________ANIMAIS COM A LETRA O",
+            "answers": ["Orangotango", "Ouriço", "Ovelha", "Orca", "ornitorrinco", "olm", "onça", "ostra", "Ouriço cacheiro", "Ouriço do mar", "Ouriço preto", "Ouroboros", "Ovelha de dall", "Ovelha de manx", "Ovelha de suffolk", "Ovelha merina", "Ovelha negra", "Ovelha suffolk", "Ovelheiro", "Oxalidae", "Oxalis", "Oxalis corniculata", "Oxanthera", "Oxyloma"]
+		},
+        {
+            "question": "TEMA________EQUIPAMENTOS DE ACADEMIA",
+            "answers": ["Esteira", "Bicicleta ergométrica", "bicicleta", "corda", "graviton", "Máquina de remo", "supino", "mesa flexora", "cadeira adutora", "cadeira abdutora", "Máquina de agachamento", "leg press", "Máquina de puxada alta", "Máquina de puxada baixa", "Máquina de leg press", "haltere", "Corda de pular", "Barra de pull up", "Barra de tríceps", "Halteres", "Kettlebells", "Bola suíça", "Steps", "Tapete de yoga", "Bola medicinal", "polia", "anilha", "Plataforma de salto", "Elíptico", "Pulley"]
+		},
+        {
+            "question": "TEMA________OS 4 GRAND SLAM DE TÊNIS",
+            "answers": ["Australian Open", "Roland Garros", "Wimbledon", "US Open"]
+		},
+        {
+            "question": "TEMA________OS FAMOSOS TÊNISTAS BIG THREE DA GERAÇÃO 2000 (FALE SÓ O SOBRENOME)",
+            "answers": ["federer", "nadal", "djokovic"]
+		},
+        {
+            "question": "TEMA________JOGADORES DE FUTEBOL DO TRIO (MSN)",
+            "answers": ["messi", "suarez", "neymar"]
+		},
+        {
+            "question": "TEMA________CORES DA BANDEIRA DO BRASIL",
+            "answers": ["azul", "branco", "verde", "amarelo"]
+		},
+        {
+            "question": "TEMA________MESES DO ANO",
+            "answers": ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
+		},
+        {
+            "question": "TEMA________MESES DO ANO EM INGLES",
+            "answers": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+		},
+        {
+            "question": "TEMA________MATÉRIAS ESCOLARES DO ENSINO MÉDIO",
+            "answers": ["Matemática", "Português", "História", "Geografia", "Biologia", "Química", "Física", "quimica", "Inglês", "Espanhol", "Artes", "Educação Física", "Filosofia", "Sociologia", "Literatura", "Redação", "Religião"]
+		},
+        {
+            "question": "TEMA________DIAS DA SEMANA (NÃO USEM HIFEN)",
+            "answers": ["Segunda feira", "Terça feira", "Quarta feira", "Quinta feira", "Sexta feira", "Sábado", "Domingo"]
+		},
+        {
+            "question": "TEMA________AS 7 MARAVILHAS DO MUNDO MODERNO",
+            "answers": ["Muralha da China", "Petra", "Cristo Redentor", "Machu Picchu", "Chichén Itzá", "Coliseu de Roma", "Taj Mahal"]
+		},
+        {
+            "question": "TEMA________TIGRES ASIATICOS",
+            "answers": ["Índia", "Malásia", "Tailândia", "Indonésia", "Vietnã", "Filipinas", "cingapura", "coreia do sul", "hong kong", "taiwan"]
+		},
+        {
+            "question": "TEMA________OS 5 SENTIDOS HUMANOS",
+            "answers": ["tato", "olfato", "audiçao", "paladar", "visao"]
+		},
+        {
+            "question": "TEMA________ESTADOS DO ESTADOS UNIDOS",
+            "answers": ["Alabama", "Alasca", "Arizona", "Arkansas", "Califórnia", "Carolina do Norte", "Carolina do Sul", "Colorado", "Connecticut", "Dakota do Norte", "Dakota do Sul", "Delaware", "Flórida", "Geórgia", "Havaí", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "Nova Hampshire", "Nova Jérsia", "Nova Iorque", "Novo México", "Ohio", "Oklahoma", "Oregon", "Pensilvânia", "Rhode Island", "Tennessee", "Texas", "Utah", "Vermont", "Virgínia", "Virgínia Ocidental", "Washington", "Wisconsin", "Wyoming"]
+		},
+        {
+            "question": "TEMA________PAÍSES DA AMERICA DO SUL",
+            "answers": ["Argentina", "Bolívia", "Brasil", "Chile", "Colômbia", "Equador", "Guiana", "Paraguai", "Peru", "Suriname", "Uruguai", "Venezuela"]
+		},
+        {
+            "question": "TEMA________ESTADOS DO NORDESTE",
+            "answers": ["Alagoas", "Bahia", "Ceará", "Maranhão", "Paraíba", "Pernambuco", "Piauí", "Rio Grande do Norte", "Sergipe"]
+		},
+        {
+            "question": "TEMA________ORGANELAS CELULARES",
+            "answers": ["Núcleo", "Mitocôndria", "Retículo Endoplasmático", "Complexo de Golgi", "Lisossomo", "Cloroplasto", "Vacúolo", "Ribossomo", "Citoesqueleto", "Membrana Plasmática", "citoplasma", "nucleolo", "parede celular"]
+		},
+        {
+            "question": "TEMA________CAPITANIAS HEREDITARIAS DO BRASIL",
+            "answers": ["maranhao", "ceara", "rio grande", "itamaraca", "bahia de todos os santos", "ilheus", "pernambuco", "porto seguro", "espirito santo", "sao tome", "sao vicente", "santo amaro", "santana"]
+		},
+        {
+            "question": "TEMA________PAÍSES DA OCEANIA",
+            "answers": ["Austrália", "Nova Zelândia", "Papua Nova Guiné", "Fiji", "Ilhas Salomão", "Vanuatu", "Samoa", "Kiribati", "Tonga", "Tuvalu", "Nauru", "Micronésia", "Ilhas Marshall", "Palau", "Timor Leste", "Guam", "Ilhas Cook", "Niue", "Polinésia Francesa", "Nova Caledônia", "Ilhas Wallis e Futuna"]
+		},
+        {
+            "question": "TEMA________MARCAS DE CARRO ITALIANA",
+            "answers": ["Ferrari", "Lamborghini", "Maserati", "Alfa Romeo", "Fiat", "Lancia", "Pagani", "Abarth", "De Tomaso", "Italdesign", "Iso", "Pininfarina", "Bertone", "Cisitalia", "Autobianchi", "Innocenti", "Zagato", "Bizzarrini", "Siata", "Osca", "Isotta Fraschini", "Devaux", "Stanguellini", "ASA", "ATS", "Bandini", "Covini", "Effeffe", "Ferves", "Intermeccanica", "Innosta", "Jetcar", "OM", "Quattroruote", "Scaglietti", "S.I.A.T.A.", "Volugrafo", "Vemac", "Faralli and Mazzanti", "Fratelli Frigerio", "Vignale"]
+		},
+        {
+            "question": "TEMA________CALÇADOS",
+            "answers": ["Sapato", "Tênis", "Sandália", "Bota", "pantufa", "meia", "Sapatilha", "chuteira", "botina", "salto", "Salto alto", "galocha", "Salto baixo", "Rasteirinha", "Alpargata", "Mocassim", "Espadrille", "Sapato social", "Brogue", "Sapato Oxford", "Ankle boot", "Coturno", "Peep toe", "Scarpin", "Slip on", "tamanco", "Sapatenis", "Mule", "Birkenstock", "Gladiadora", "Sneaker", "Chelsea boot", "Papete", "Dockside", "Sapato dockside", "chinelo"]
+		},
+        {
+            "question": "TEMA________BIOMAS BRASILEIRO",
+            "answers": ["Amazônia", "Cerrado", "Caatinga", "Mata Atlântica", "Pampa", "Pantanal"]
+		},
+        {
+            "question": "TEMA________REDES SOCIAIS",
+            "answers": ["Facebook", "Instagram", "Twitter", "threads", "tinder", "jaumo", "LinkedIn", "bluesky", "vsco", "myspace", "x", "orkut", "patreon", "duolingo", "Snapchat", "TikTok", "msn", "messenger", "Pinterest", "Reddit", "YouTube", "WhatsApp", "Telegram", "Discord", "Tumblr", "Flickr", "WeChat", "vk", "Line", "Skype", "Viber", "Signal", "Mastodon", "Twitch", "Periscope", "Plurk", "Weibo", "Sina Weibo", "hornet", "YY", "Diaspora", "kwai", "Minds", "Gab", "MeWe", "Quora", "Goodreads", "Foursquare", "Steemit", "Dribbble", "Behance", "SoundCloud", "Spotify", "Last.fm", "grindr", "badoo", "koo", "deezer"]
+		},
+        {
+            "question": "TEMA________NAVEGADORES DE INTERNET",
+            "answers": ["Google Chrome", "Mozilla Firefox", "Microsoft Edge", "Safari", "tor", "puffin", "Opera", "Brave", "Vivaldi", "Tor Browser", "UC Browser", "Maxthon", "Avant Browser", "Yandex Browser", "Epic Privacy Browser", "Chromium", "Pale Moon", "Waterfox", "Comodo Dragon", "Slimjet", "Midori", "Seamonkey", "opera gx", "internet explorer"]
+		},
+        {
+            "question": "TEMA________ESPORTES QUE USAM BOLA (ESCRITA EM PORTUGUÊS)",
+            "answers": ["Futebol", "Basquete", "Vôlei", "Tênis", "Golfe", "tenis de mesa", "Rugby", "volei de praia", "futsal", "boliche", "Handebol", "Beisebol", "Softbol", "Pólo aquático", "Hóquei sobre grama", "Hóquei no gelo", "Críquete", "Padel", "Squash", "Futebol americano", "Gaelic football", "Bolão", "Bowling", "Futebol australiano"]
+		},
+        {
+            "question": "TEMA________CAMADAS DA PELE",
+            "answers": ["Epiderme", "Derme", "Hipoderme"]
+		},
+        {
+            "question": "TEMA________CAMADAS DO CORAÇÃO",
+            "answers": ["Epicárdio", "Miocárdio", "Endocárdio"]
+		},
+        {
+            "question": "TEMA________PRESIDENTES DO BRASIL ENTRE 1956-1970",
+            "answers": ["Juscelino Kubitschek", "Jânio Quadros", "João Goulart", "Ranieri Mazzilli", "Castelo Branco", "Costa e Silva"]
+		},
+        {
+            "question": "TEMA________PRESIDENTES DO BRASIL ENTRE 2007-2019 (APENAS O NOME POPULAR)",
+            "answers": ["lula", "Dilma", "Temer", "Bolsonaro"]
+		},
+        {
+            "question": "TEMA________OS NOMES DA FAMILIA PRINCIPAL DE TODO MUNDO ODEIA O CHRIS",
+            "answers": ["chris", "drew", "tonya", "julius", "rochelle"]
+		},
+        {
+            "question": "TEMA________OS 3 VILÕES PRINCIPAIS DA SAGA OS VINGADORES",
+            "answers": ["loki", "thanos", "ultron"]
+		},
+        {
+            "question": "TEMA________OS 4 PERSONAGENS PRINCIPAIS DA SAGA SHREK",
+            "answers": ["shrek", "fiona", "gato de botas", "burro"]
+		},
+        {
+            "question": "TEMA________AS 3 PRINCIPAIS PREPARAÇÕES DE OVOS",
+            "answers": ["mexido", "frito", "cozido"]
+		},
+        {
+            "question": "TEMA________GENÊROS MUSICAIS",
+            "answers": ["Rock", "Pop", "pagode", "piseiro", "brega", "j pop", "death metal", "afrobeat", "cumbia", "salsa", "dub", "chillout", "new age", "dance", "brega funk", "axe", "samba enredo", "metal", "mpb", "repente", "psytrance", "heavy metal", "Hip Hop", "Jazz", "Eletrônica", "Rap", "Reggae", "Country", "Samba", "Funk", "phonk", "Blues", "R&B", "Metal", "Indie", "Folk", "Punk", "Sertanejo", "Gospel", "Clássica", "Soul", "Disco", "Techno", "Fusion", "Grunge", "Trap", "Chillhop", "House", "Dubstep", "Bossa Nova", "Trance", "Raggae Roots", "Merengue", "J Pop", "K Pop", "Fado", "Bachata", "Cumbia", "Tango", "Mambo", "Bollywood", "Rumba", "Vallenato", "Zouk", "Forró", "Jovem Guarda", "Música Carnatica", "Tejano", "Hula", "Bhangra", "deephouse"]
+		},
+        {
+            "question": "TEMA________COMPANHIAS AÉREAS",
+            "answers": ["Emirates", "Singapore Airlines", "avianca", "Qatar Airways", "air koryo", "tap", "easyjet", "Cathay Pacific", "ANA All Nippon Airways", "Etihad Airways", "Lufthansa", "Qantas", "EVA Air", "Garuda Indonesia", "British Airways", "Turkish Airlines", "Thai Airways", "Virgin Atlantic", "Swiss International Air Lines", "Air France", "KLM Royal Dutch Airlines", "Delta Air Lines", "American Airlines", "United Airlines", "Air Canada", "Finnair", "Aeroflot", "Japan Airlines", "LATAM Airlines", "Alitalia", "Iberia", "Air New Zealand", "South African Airways", "Asiana Airlines", "Azul", "GOL", "LATAM", "Voepass", "MAP", "Itapemirim", "Flyways", "TwoFlex", "Astro Air", "PASSAREDO"]
+		},
+        {
+            "question": "TEMA________PALAVRAS DO HINO NACIONAL COM MAIS DE 5 LETRAS",
+            "answers": ["contemplado", "gentil", "lábaro", "florão", "cruzeiro", "ouviram", "patria", "amada", "bosque", "bosques", "liberdade", "brasil", "margens", "colosso", "gigante", "eternamente", "esplendido", "brado", "adorada", "placidas", "fulguras", "ipiranga", "penhor", "heroico", "cruel", "ancestral", "florão", "deitado", "retumbante", "impávido", "ressoara", "réus", "esplendor", "filhos", "símbolo", "lábaro", "ressurge", "impávido", "retumbante", "florão"]
+		},
+        {
+            "question": "TEMA________ESTADOS DO BRASIL COM A LETRA R",
+            "answers": ["Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rondônia", "Roraima"]
+		},
+        {
+            "question": "TEMA________ANOS QUE O BRASIL FOI CAMPEÃO DO MUNDO NO FUTEBOL",
+            "answers": ["1958", "1962", "1970", "1994", "2002"]
+		},
+        {
+            "question": "TEMA________PARTES DO CORPO HUMANO (NÃO VALE ORGÃOS)",
+            "answers": ["Cabeça", "Pescoço", "Ombro", "Braço", "cabelo", "cilio", "supercilio", "bochecha", "Antebraço", "canela", "unha", "labio", "barriga", "mamilo", "dente", "Cotovelo", "Punho", "Mão", "Dedo", "Polegar", "tronco", "Costas", "Peito", "Abdômen", "Cintura", "Quadril", "Nádegas", "Coxa", "Joelho", "Perna", "Tornozelo", "Pé", "Calcanhar", "nariz", "boca", "orelha"]
+		},
+        {
+            "question": "TEMA________CORES PRIMÁRIAS",
+            "answers": ["Vermelho", "Azul", "Amarelo"]
+		},
+        {
+            "question": "TEMA________TÉCNICOS DA SELEÇÃO BRASILEIRA DE FUTEBOL ENTRE 2010-2018",
+            "answers": ["Dunga", "Mano menezes", "felipao", "Tite"]
+		},
+        {
+            "question": "TEMA________PERSONAGENS DO STREET FIGHTER",
+            "answers": ["Ryu", "Ken", "Chun Li", "Guile", "Zangief", "Dhalsim", "Blanka", "Honda", "Balrog", "Vega", "Sagat", "M Bison", "Cammy", "Dee Jay", "T Hawk", "Fei Long", "Akuma", "Gen", "Dan", "Sakura", "Rose", "Cody", "Adon", "Guy", "Rolento", "Hugo", "Poison", "Ibuki", "Makoto", "Juri"]
+		},
+        {
+            "question": "TEMA________OBJETOS USADOS PRA SENTAR",
+            "answers": ["Cadeira", "Sofá", "Poltrona", "Banco", "Banquinho", "trono", "Cadeira de balanço", "Cadeira de escritório", "Banco de jardim", "Banqueta", "Cadeira de praia", "Pufe", "Banco de bar", "Banco de piano", "Cadeira dobrável", "Cadeira de rodas", "Cadeira de praça", "Banco de ônibus", "Banco de metrô", "Cadeira de avião", "Banco de carro"]
+		},
+        {
+            "question": "TEMA________BEBIDAS",
+            "answers": ["Água", "Café", "Chá", "Refrigerante", "mojito", "margarida", "agua com gas", "catuaba", "energetico", "isotonico", "hidromel", "achocolatado", "leite", "Suco", "caldo de cana", "agua de coco", "Vinho", "Cerveja", "conhaque", "Vodka", "Whisky", "Rum", "Tequila", "Gin", "Brandy", "Saquê", "Champanhe", "Licor", "Sidra", "Verdello", "Tisana", "Sangria", "Batido", "Agua Ardente", "Absinto", "Aguardente", "Akpeteshie", "Anís", "Bebida Alcoólica", "Caipirinha", "Cachaça", "Coquetel", "Pisco", "Prosecco", "Sambuca", "Shochu", "Soju", "Tinto de Verano", "Vermute", "Zurracapote", "Kvass", "Mead", "Pulque"]
+		},
+        {
+            "question": "TEMA________INSTRUMENTOS MUSICAIS",
+            "answers": ["Violino", "Violoncelo", "Viola", "Contrabaixo", "pifano", "triangulo", "tambor", "ocarina", "shofar", "trombeta", "bandolim", "cravo", "chocalho", "macumba", "ukulele", "lira", "Guitarra", "Baixo", "Violão", "Piano", "Teclado", "Órgão", "Acordeon", "Harpa", "Flauta", "Flauta Transversal", "teorba", "Flauta Doce", "Clarinete", "Saxofone", "Oboé", "Fagote", "Trompete", "Trombone", "Tuba", "Trompa", "sanfona", "Clarone", "Gaita", "Xilofone", "Marimba", "Vibrafone", "Tímpano", "Bateria", "Pandeiro", "Congas", "Berimbau", "Cuíca", "Reco reco", "Triângulo", "Tamborim", "Surdo", "Agogô", "Cavaquinho", "Banjo"]
+		},
+        {
+            "question": "TEMA________CANTORES/CANTORAS NORDESTINOS",
+            "answers": ["Luiz Gonzaga", "Alceu Valença", "joao gomes", "genival santos", "pitty", "mano walter", "nego jha", "luedji luna", "Evoney Fernandes", "geraldo azevedo", "bezerra da silva", "flavio jose", "roberta sa", "carlinhos brown", "margareth menezes", "daniela mercury", "dorival caymmi", "raul seixas", "luiz caldas", "pepeu gomes", "mc troia", "gilberto gil", "matue", "pablo", "solange almeida", "silvano salles", "caetano veloso", "maria bethania", "djavan", "alcione", "gal costa", "pabllo vittar", "nadson ferinha", "juliette", "ze vaqueiro", "taty girl", "tarcisio do acordeon", "ivete sangalo", "Elba Ramalho", "reginaldo rossi", "Zé Ramalho", "nattanzinho", "thiago freitas", "zezo", "leo santana", "fafa de belem", "bell marques", "joelma", "manoel gomes", "tierry", "xand aviao", "vitor fernandes", "jonas esticado", "mc danny", "almir rouche", "zeca baleiro", "Dominguinhos", "Geraldo Azevedo", "Jackson do Pandeiro", "Marinês", "Flávio José", "Marília Mendonça", "Xand Avião", "Wesley Safadão", "Fagner", "Nando Cordel", "Amelinha", "Nelson Gonçalves", "Genival Lacerda", "Antônio Barros", "Cassiano", "Trio Nordestino", "Jorge de Altinho", "Alcymar Monteiro", "Flávio Leandro", "Maciel Melo", "Almério", "Chico César", "Cezzinha", "Josildo Sá", "Trio Virgulino", "Santanna", "Adelmário Coelho", "Novinho da Paraíba", "Petrúcio Amorim", "Almir Rouche", "Geraldo Maia", "Elifas Junior", "Ranniery Gomes", "Dorgival Dantas", "Luan Estilizado", "João do Morro", "Israel Filho", "Dudu do Acordeon", "Eduarda Brasil", "Walkyria Santos", "Eliane", "Avine Vinny", "Jorge de Altinho"]
+		},
+        {
+            "question": "TEMA________PAÍSES COM A LETRA N",
+            "answers": ["Namíbia", "Nauru", "Nepal", "Nicarágua", "Níger", "Nigéria", "Noruega", "Nova Zelândia"]
+		},
+        {
+            "question": "TEMA________PRESIDENTES DO EUA ENTRE 2001-2021 (APENAS SOBRENOME)",
+            "answers": ["bush", "obama", "biden", "trump"]
+		},
+        {
+            "question": "TEMA________PEDRAS PRECIOSAS",
+            "answers": ["Diamante", "Rubi", "Safira", "Esmeralda", "Água marinha", "aventurina", "lazulita", "granet", "turmalina", "hematite", "Topázio", "Opala", "Turmalina", "Ametista", "Granada", "Ágata", "Peridoto", "Jade", "Lápis lazúli", "Turquesa", "Citrino", "Ônix", "Malaquita", "Quartzo", "Alexandrita"]
+		},
+        {
+            "question": "TEMA________PAÍSES DO ORIENTE MÉDIO",
+            "answers": ["Arábia Saudita", "Bahrein", "Catar", "afeganistao", "Chipre", "Emirados Árabes Unidos", "Iêmen", "Irã", "Iraque", "Israel", "Jordânia", "Kuwait", "Líbano", "Omã", "Palestina", "Síria", "Turquia"]
+		},
+        {
+            "question": "TEMA________INSETOS",
+            "answers": ["Formiga", "Abelha", "Vespa", "Mosquito", "varejeira", "Besouro", "lixeiro", "barbeiro", "besouro rinoceronte", "escaravelho", "Borboleta", "Joaninha", "Gafanhoto", "Grilo", "Mariposa", "Libélula", "Cigarra", "Louva a deus", "Mosca", "Pulga", "Percevejo", "Piolho", "Barata", "Traça", "Tênia", "Ácaro", "Broca", "Carrapato", "Centopeia", "Escorpião", "Lagarta", "Pernilongo", "Sarna", "Cupim", "Caracol", "Armadilha", "Cigarra", "Cochonilha", "Crisálida", "Grilo", "Gorgulho", "Larva de besouro", "Larva de borboleta", "Larva de mariposa", "Lagarta", "Mosquito pólvora", "Piolho de cobra", "Pulga", "Tênia", "Taturana", "Verme de fogo", "Barbeiro", "Barata", "Bicho de pé", "Bicho da seda", "Broca de madeira", "Carrapato", "Carrapato estrela", "Cigarra cabeça de morcego", "Cupim subterrâneo", "Cupim voador", "Escorpião amarelo", "Formiga cortadeira", "Gafanhoto do deserto", "Lagarta rosca"]
+		},
+        {
+            "question": "TEMA________PRONOMES",
+            "answers": ["eu", "tu", "Ele", "Ela", "Nós", "Vós", "Eles", "Elas", "Isso", "Isso", "Aquilo", "quem", "Aquele", "Aqueles", "Aquela", "Aquelas", "Alguém", "Ninguém", "Todo", "Nenhum", "Mim", "Comigo", "Contigo", "Conosco", "Convosco", "Me", "Te", "Se", "Si", "Consigo", "Lhe", "Vos", "O", "A", "Os", "As", "Meu", "Minha", "Meus", "Minhas", "Teu", "Tua", "Teus", "Tuas", "Seu", "Sua", "Seus", "Suas", "Nosso", "Nossa", "Nossos", "Nossas", "Vosso", "Vossa", "Vossos", "Vossas", "Dele", "Dela", "Deles", "Daqui", "Daí", "Dali", "Daqui", "Daquele", "Daquela", "Daquilo", "Daqueles", "Daquelas", "Dele", "Dela", "Deles", "Delas"]
+		},
+        {
+            "question": "TEMA________DJ'S FAMOSOS (NÃO USE DJ ANTES DO NOME)",
+            "answers": ["Calvin Harris", "David Guetta", "cleiton rasta", "Martin Garrix", "alok", "guuga", "ivis", "jetlag", "kuririn", "blakes", "cat dealers", "wax tailor", "kasino", "arana", "pedro sampaio", "vintage culture", "Tikos Groove", "azeitona", "moby", "dennis", "Khaled", "Tiesto", "Avicii", "Marshmello", "Steve Aoki", "Deadmau5", "Armin van Buuren", "Skrillex", "Diplo", "Zedd", "Afrojack", "Hardwell", "Axwell", "Ingrosso", "Alesso", "Alan Walker", "Nicky Romero", "Kaskade", "The Chainsmokers", "Dimitri Vegas & Like Mike", "Don Diablo", "Paul Oakenfold", "Carl Cox", "Tiësto", "Fatboy Slim", "Eric Prydz", "Robin Schulz", "Oliver Heldens", "Lost Frequencies", "Nervo", "R3hab", "Above & Beyond", "Kygo", "Fisher", "Jonas Blue", "Kungs", "Sven Väth", "Peggy Gou", "Solomun", "Jamie Jones", "Charlotte de Witte", "Nina Kraviz", "Adam Beyer", "Joseph Capriati", "CamelPhat", "Green Velvet", "Fisher", "Sasha", "John Digweed", "Richie Hawtin", "Carl Cox", "Paul van Dyk", "Sven Väth", "Solomun", "Charlotte de Witte", "Nina Kraviz", "Adam Beyer", "Joseph Capriati", "CamelPhat", "Green Velvet", "Black Coffee", "Carl Craig", "Honey Dijon", "Jamie Jones", "Adam Port", "Dixon", "Dax J"]
+		},
+        {
+            "question": "TEMA________ARMAS BRANCAS",
+            "answers": ["Adaga", "Espada", "cutelo", "canivete", "martelo", "navalha", "garfo", "garrafa", "soco ingles", "serrote", "kunai", "faca", "taco", "peixeira", "cassetete", "Facão", "tesoura", "Machado", "Lança", "Foice", "Katana", "Sabre", "Gládio", "Rapieira", "Cutelo", "Espeto", "Chicote", "Nunchaku", "Shuriken", "Tonfa", "Clava", "Tridente", "Machadinha", "Karambit", "Sai", "Chakram", "Estilete", "Florete", "Machete", "Punhal", "Faca de combate", "Espada bastarda", "Espada longa", "Espada curta", "Lâmina de arremesso", "Machado de guerra", "Machado de batalha", "Cimitarra", "Espada de duas mãos", "Espada roçadeira", "Cutelo de caça", "Foice de guerra", "Glaive", "Alabarda", "Alfanje", "Falcata", "Kukri", "Rondel", "Claymore", "Tomahawk", "Falchion", "Naginata", "Spatha", "Espada viking", "Khopesh", "Espada flamígera", "Nodachi", "Clava de ossos", "Cutelo de cavalaria", "Dadao", "Zanbato", "Shashka", "Tsurugi", "Ulu", "Talwar"]
+		},
+        {
+            "question": "TEMA________PROGRAMAS DO MICROSOFT OFFICE",
+            "answers": ["Word", "Excel", "PowerPoint", "Outlook", "Access", "OneNote", "Publisher", "Visio", "Project", "Teams", "SharePoint", "Exchange", "Skype", "OneDrive", "Yammer", "Sway", "InfoPath", "Forms", "Stream", "Dynamics 365"]
+		},
+        {
+            "question": "TEMA________LINGUAGENS DE PROGRAMAÇÃO",
+            "answers": ["Python", "Java", "JavaScript", "C++", "C#", "Swift", "Ruby", "PHP", "Go", "R", "Kotlin", "TypeScript", "Scala", "Perl", "HTML", "CSS", "SQL", "Assembly", "Lua", "Objective C", "Dart", "Shell", "MATLAB", "Visual Basic", "Cobol", "Fortran", "Haskell", "Rust", "Julia", "Elixir"]
+		},
+        {
+            "question": "TEMA________OS 3 PILARES DA SUSTENTABILIDADE",
+            "answers": ["economico", "social", "ambiental"]
+		},
+        {
+            "question": "TEMA________OS 5 R's DA SUSTENTABILIDADE",
+            "answers": ["repensar", "reduzir", "recusar", "reutilizar", "reciclar"]
+		},
+        {
+            "question": "TEMA________PAÍSES QUE JÁ OCUPARAM CARGO DE PAPA NO VATICANO",
+            "answers": ["Itália", "Grécia", "Síria", "Palestina", "França", "Portugal", "Espanha", "Alemanha", "Polônia", "Holanda", "Bélgica", "Inglaterra", "República Checa", "Argentina"]
+		},
+        {
+            "question": "TEMA________NOMES DOS DEDOS DA MÃO",
+            "answers": ["Polegar", "Indicador", "Médio", "Anelar", "Mínimo"]
+		},
+        {
+            "question": "TEMA________SANTISSIMA TRINDADE",
+            "answers": ["pai", "filho", "espirito santo"]
+		},
+        {
+            "question": "TEMA________PAÍSES DA AMERICA DO NORTE",
+            "answers": ["estados unidos", "canada", "mexico"]
+		},
+        {
+            "question": "TEMA________OS 7 PECADOS CAPITAIS",
+            "answers": ["Soberba", "Gula", "Inveja", "Ira", "Luxúria", "Avareza", "Preguiça"]
+		},
+        {
+            "question": "TEMA________CAVALEIROS DO APOCALIPSE",
+            "answers": ["fome", "morte", "guerra", "peste"]
+		},
+        {
+            "question": "TEMA________ANIMAIS COM A LETRA R",
+            "answers": ["Raposa", "Rinoceronte", "Rato", "ratazana", "Rena", "Rã", "Robalo", "Rouxinol", "Rêmora", "Rã touro", "Rouxinol do mato", "Rouxinol comum", "Raposa do ártico", "Rouxinol de rabo preto", "Rouxinol galego", "Rato do campo", "Rato toupeira pelado", "Rouxinol bravo", "Rã arborícola de olhos vermelhos", "Rouxinol de coleira", "Rouxinol de papo amarelo", "Rouxinol de cauda preta"]
+		},
+        {
+            "question": "TEMA________FAST FOOD FAMOSOS",
+            "answers": ["McDonalds", "Burger King", "KFC", "Subway", "giraffas", "bobs", "popeyes", "madero", "outback", "Pizza Hut", "habibs", "Dominos", "Wendys", "Taco Bell", "Starbucks", "Five Guys", "In N Out Burger", "Chick fil A", "Dunkin' Donuts", "Popeyes Louisiana Kitchen", "Sonic Drive In", "Arbys", "Panda Express", "Whataburger", "Carls Jr.", "White Castle"]
+		},
+        {
+            "question": "TEMA________PAÍSES COM A LETRA A",
+            "answers": ["Afeganistão", "África do Sul", "Albânia", "Alemanha", "Andorra", "Angola", "Antígua e Barbuda", "Arábia Saudita", "Argélia", "Argentina", "Armênia", "Austrália", "Áustria", "Azerbaijão"]
+		},
+        {
+            "question": "TEMA________VERBOS COM A LETRA J",
+            "answers": ["jabear", "jactanciar", "jacular", "janar", "jurar", "janotar", "jantaricar", "jarrear", "jaspear", "jatear", "jazer", "jejuar", "jereminar", "jimbular", "joeirar", "jogar", "jogratizar", "jolar", "jonjar", "jornalizar", "jubilar", "judicar", "jugar", "julgar", "jungir", "jurisdicionar", "justiçar", "juvenilizar", "jacarejar", "jactar", "jaezar", "janelar", "janotear", "jantarinhar", "jardar", "jarretar", "jatanciar", "javelizar", "jazzificar", "jesuitizar", "jitunar", "joelhar", "jogatar", "joguetar", "jongar", "jornadear", "jorrar", "judaizar", "judiciar", "jugular", "jumbair", "juntar", "juremar", "justapor", "justificar", "jacobinizar", "jactitar", "jambrar", "jangar", "jantar", "japonesar", "jardinar", "jarretear", "jatar", "javrar", "jeitar", "jeremiar", "jiboiar", "jobar", "jogalhar", "jogatilhar", "joguetear", "jonizar", "jornalisticar", "jovializar", "judiar", "jugadar", "juizar", "juncar", "juramentar", "jurisdicionalizar", "justar", "juvenescer"]
+		},
+        {
+            "question": "TEMA________PALAVRAS DA SIGLA (LGBT)",
+            "answers": ["lesbica", "gay", "bissexual", "transgenero"]
+		},
+        {
+            "question": "TEMA________PROFISSOES COM A LETRA B (NO MASCULINO)",
+            "answers": ["Babá", "Bailarino", "Bancário", "Barbeiro", "barqueiro", "barman", "Bartender", "bodybuilder", "biomedico", "barista", "Bibliotecário", "Biólogo", "balconista", "Bombeiro", "Bordadeira", "Borracheiro", "Boticário", "Boxeador", "Bombeiro Civil", "Babysitter", "Baterista", "Bilheteiro", "Biógrafo", "Boleiro", "Banhista"]
+		},
+        {
+            "question": "TEMA________PEÇAS DE AVIÃO",
+            "answers": ["Asa", "Fuselagem", "Motor", "assento", "Cauda", "Hélice", "Cockpit", "manche", "caixa preta", "turbina", "compressor", "Trem de pouso", "Leme de direção", "Flap", "Aileron", "Estabilizador horizontal", "Estabilizador vertical", "Spoiler", "Slats", "Roda", "Luz de navegação", "Sistema de combustível", "Spoiler", "Reversor de empuxo", "Assento do piloto"]
+		},
+        {
+            "question": "TEMA________MARCAS DE DESODORANTE",
+            "answers": ["Dove", "Nivea", "Rexona", "Old Spice", "Axe", "Secret", "herbissimo", "jequiti", "monange", "Degree", "above", "bozzano", "Mitchum", "giovanna baby", "Suave", "Speed Stick", "Brut", "Sure", "Soft & Dri", "Ban", "Arm & Hammer", "Toms of Maine", "Degree Men", "Lady Speed Stick", "Mitchum for Women", "Right Guard"]
+		},
+        {
+            "question": "TEMA________OCEANOS",
+            "answers": ["indico", "pacifico", "atlantico", "artico", "antartico"]
+		},
+        {
+            "question": "TEMA________OS 4 PRINCIPAIS DA TURMA DA MONICA",
+            "answers": ["monica", "cebolinha", "magali", "cascao"]
+		},
+        {
+            "question": "TEMA________GUARDIÕES DA GALÁXIA (2014)",
+            "answers": ["senhor das estrelas", "drax", "rocket", "groot", "gamora"]
+		},
+        {
+            "question": "TEMA________ESCALAS TERMOMETRICAS",
+            "answers": ["Celsius", "Fahrenheit", "Kelvin", "Rankine", "Réaumur", "Delisle", "Newton", "Rømer", "Leiden"]
+		},
+        {
+            "question": "TEMA________ESCALAS DE DISTANCIA (NO SINGULAR)",
+            "answers": ["Quilômetro", "Metro", "Centímetro", "Milímetro", "Milha", "Jarda", "Pé", "Polegada", "Náutico", "Ano luz", "Parsec", "Unidade Astronômica", "Furlong", "Fermi", "Angström", "Ponto", "Braça", "Estádio", "Legua", "Família astronômica"]
+		},
+        {
+            "question": "TEMA________FESTIVAIS FAMOSOS",
+            "answers": ["Rock in Rio", "Coachella", "Oktoberfest", "Lollapalooza", "the town", "Tomorrowland", "Glastonbury Festival", "happy holi", "Electric Daisy Carnival", "Ultra Music Festival", "Burning Man", "Roskilde Festival", "Reading and Leeds Festival", "Montreux Jazz Festival", "Primavera Sound", "SXSW", "Bonnaroo Music e Arts Festival", "Sziget Festival", "Osheaga Festival", "Wireless Festival", "Afro Nation", "Sunburn Festival", "Exit Festival"]
+		},
+        {
+            "question": "TEMA________TIPOS DE CLIMAS/TEMPOS",
+            "answers": ["Ensolarado", "Chuvoso", "Nublado", "Tempestuoso", "Neve", "Frio", "temperado", "Quente", "umido", "Tropical", "Árido", "semiarido", "Ventoso", "Fresco", "Seco", "Moderado", "Polar", "Equatorial", "Subtropical", "Desértico", "Ameno", "Instável"]
+		},
+        {
+            "question": "TEMA________MARCAS DE PASTA DE DENTE",
+            "answers": ["Colgate", "Oral B", "Sensodyne", "sorriso", "tandy", "Close Up", "Crest", "Aquafresh", "Signal", "even", "dentil", "kolynos", "Parodontax", "Elmex", "Blend a Med", "Arm e Hammer", "Zendium", "Pepsodent", "Marvis", "Theramed", "Listerine", "Toms of Maine", "Splat", "Meridol", "Biorepair"]
+		},
+        {
+            "question": "TEMA________LUGARES PUBLICOS",
+            "answers": ["Praça", "banheiro quimico", "Parque", "Biblioteca", "Museu", "escola", "Teatro", "Cinema", "delegacia", "prefeitura", "Estádio", "hospital", "igreja", "farmacia", "upa", "Piscina pública", "Academia", "Mercado", "Rodoviária", "Aeroporto", "Estação de trem", "estaçao", "Terminal", "Praia", "Mirante", "Jardim botânico", "Zoológico", "Centro comunitário", "Shopping"]
+		},
+        {
+            "question": "TEMA________AS 3 FRAQUEZAS DE UM VAMPIRO",
+            "answers": ["sol", "alho", "prata"]
+		},
+        {
+            "question": "TEMA________FENOMENOS OU DESASTRES NATURAIS",
+            "answers": ["Terremoto", "Tornado", "Furacão", "Tsunami", "maremoto", "Erupção vulcânica", "Enchente", "Deslizamento de terra", "Seca", "Incêndio florestal", "chuva", "Tempestade de neve", "Tufão", "Ciclone", "Avalanche", "Tremor de terra", "Tempestade de areia", "Granizo", "Fogos de santelmo", "Tremor vulcânico", "Inundação", "Deslizamento de rochas"]
+		},
+        {
+            "question": "TEMA________SORTEIOS DA LOTERIAS CAIXA",
+            "answers": ["mega sena", "lotofacil", "quina", "lotomania", "+milionaria", "timemania", "dupla sena", "federal", "loteca", "dia de sorte", "super sete"]
+		},
+        {
+            "question": "TEMA________FOBIAS",
+            "answers": ["Aracnofobia", "Agorafobia", "Claustrofobia", "Acrofobia", "hidrofobia", "misofonia", "Coulrofobia", "oclofobia", "talassofobia", "emetofobia", "Hematofobia", "Entomofobia", "Cinofobia", "Brontofobia", "Misofobia", "Tripofobia", "Ofidiofobia", "Aquafobia", "Ablutofobia", "Nictofobia", "Ornitofobia", "Automatonofobia", "Triscaidecafobia", "Atelofobia", "Pteridofobia", "Escotofobia", "Glosofobia", "Grafobia", "Iatromisia", "Crometofobia", "Ombrofobia", "Hexacosioihexekontahexafobia", "Tocofobia", "Ergofobia", "Geliofobia"]
+		},
+        {
+            "question": "TEMA________FERRAMENTAS DE MECÂNICO",
+            "answers": ["Chave de boca", "macaco", "martelo", "parafusadeira", "Chave de fenda", "Chave Phillips", "Chave Allen", "Chave de catraca", "Alicate", "Alicate de corte", "Alicate de bico", "Chave inglesa", "Chave de ajuste", "Chave de torque", "Chave de vela", "Chave de impacto", "Chave de roda", "Chave de filtro de óleo", "Chave de gancho", "Macaco hidráulico", "Macaco jacaré", "Macaco tipo jacaré", "Macaco de unha", "Macaco pantográfico", "Macaco de suspensão", "Macaco de transmissão", "Macaco de rodas", "Catraca pneumática", "Lixadeira pneumática", "Furadeira pneumática", "Retífica pneumática", "Pistola de pintura"]
+		},
+        {
+            "question": "TEMA________MATERIAIS ESCOLARES",
+            "answers": ["Lápis", "Caneta", "Borracha", "Caderno", "esquadro", "folha sulfite", "lapiseira", "caderneta", "corretivo", "apostila", "marca texto", "cola bastao", "Mochila", "Estojo", "Régua", "Tesoura", "Apontador", "Cola", "Lápis de cor", "Marcador", "Giz de cera", "Pasta", "Agenda", "Livro", "Pincel", "Tinta guache", "Compasso", "Transferidor", "Calculadora", "Papel sulfite", "Lápis de escrever", "Canetinha", "Lápis de grafite", "Bloco de notas", "Fichário", "Etiqueta", "Cartolina", "Papel quadriculado"]
+		},
+        {
+            "question": "TEMA________MARCAS DE CERVEJA",
+            "answers": ["Heineken", "itaipava", "lokal", "devassa", "antarctica", "kaiser", "polar", "imperio", "proibida", "crystal", "bohemia", "super bock", "bavaria", "sol", "quilmes", "petra", "glacial", "amstel", "spaten", "schin", "Budweiser", "Stella Artois", "Corona", "Guinness", "Becks", "Sagres", "Super Bock", "Brahma", "Skol", "Pilsner Urquell", "Peroni", "Leffe", "Chimay", "Hoegaarden", "Paulaner", "Modelo", "Duvel", "Erdinger", "Warsteiner"]
+		},
+        {
+            "question": "TEMA________NOME COMPLETO DOS FILME DA SAGA VELOZES E FURIOSOS",
+            "answers": ["velozes e furiosos", "velozes e furiosos desafio em toquio", "velozes e furiosos 2", "velozes e furiosos 4", "velozes e furiosos 5 operaçao rio", "velozes e furiosos 6", "velozes e furiosos 7", "velozes e furiosos 8", "velozes e furiosos 9", "velozes e furiosos 10", "velozes e furiosos 11"]
+		},
+        {
+            "question": "TEMA________PONTOS CARDEAIS",
+            "answers": ["norte", "sul", "leste", "oeste"]
+		},
+        {
+            "question": "TEMA________MEIOS DE TRANSPORTE",
+            "answers": ["Carro", "Ônibus", "Avião", "Trem", "moto aquatica", "iate", "canoa", "carroça", "helicoptero", "elevador", "jangada", "balao", "balsa", "moto", "skate", "cadeira de rodas", "patins", "hoverboard", "Bicicleta", "Navio", "Metrô", "Caminhão", "Motocicleta", "Helicóptero", "Barco", "Táxi", "Cavalo", "Carruagem", "Van", "Trator", "Teleférico", "Ferryboat", "Bonde", "Patinete"]
+		},
+        {
+            "question": "TEMA________PONTOS COLATERAIS",
+            "answers": ["nordeste", "sudeste", "noroeste", "sudoeste"]
+		},
+        {
+            "question": "TEMA________CAMBIOS",
+            "answers": ["Dólar", "Euro", "Libra", "Iene japonês", "won", "iene", "shekel", "bolivar", "peso uruguaio", "kwanza", "peso argentino", "rial", "peso chileno", "sol peruano", "peso colombiano", "Dólar australiano", "Dólar canadense", "Franco suíço", "Coroa sueca", "Coroa norueguesa", "Coroa dinamarquesa", "Iuan", "Peso mexicano", "Dólar de Hong Kong", "Dólar de Cingapura", "Won sul-coreano", "Dólar da Nova Zelandia", "Coroa checa", "Zloty", "Rublo", "Real"]
+		},
+        {
+            "question": "TEMA________OS 5 FURIOSOS DO FILME KUNG FU PANDA",
+            "answers": ["tigresa", "garça", "louva a deus", "macaco", "vibora"]
+		},
+        {
+            "question": "TEMA________CUMPRIMENTOS (APENAS UMA PALAVRA)",
+            "answers": ["eae", "beleza", "blz", "tranks", "show", "suave", "tranquilidade", "bom", "baum", "bem", "tranquilo", "fala", "dale", "coe", "koe", "oba", "iae", "opa", "salve", "cofoi", "quale", "eai", "yo", "ola", "oi"]
+		},
+        {
+            "question": "TEMA________LEGUMES/VERDURAS",
+            "answers": ["Alface", "Cenoura", "Tomate", "inhame", "abobora", "Pepino", "mostarda", "vagem", "Batata", "Cebola", "Alho", "Brócolis", "Espinafre", "Couve", "coentro", "Abobrinha", "Pimentão", "Berinjela", "Chuchu", "Repolho", "Rabanete", "Aipo", "Rúcula", "Couve flor", "Nabo", "Ervilha", "Milho", "Quiabo", "Abóbora", "Vagem", "Alcachofra", "Batata doce", "Beterraba", "Pimenta", "Gengibre", "Escarola", "Agrião", "Espinafre", "Acelga", "Endívia", "Rúcula", "Almeirão", "Pepino japonês", "Rabanete", "Aipo", "Chicória", "Tomate cereja", "Quiabo", "Nabo", "Chuchu", "Jiló", "Repolho roxo", "Batata yacon", "Cenoura baby", "Alho poró", "Pimentão amarelo", "Pimentão vermelho", "Pimentão verde", "Vagem", "Brócolis chinês", "Couve flor roxa", "Aspargos", "Berinjela japonesa", "Batata doce roxa", "Cenoura roxa"]
+		},
+        {
+            "question": "TEMA________NOME COMPLETO DOS 3 FILME DA SAGA TRANSFORMERS (2007) até (2011)",
+            "answers": ["transformers", "transformers a vingança dos derrotados", "transformers o lado oculto da lua"]
+		},
+        {
+            "question": "TEMA________INTEGRANTES DO SUPERGRUPO LSD",
+            "answers": ["sia", "diplo", "labrinth"]
+		},
+        {
+            "question": "TEMA________OS 3 TEMPOS VERBAIS (NÃO VALE A VARIAÇÃO PRETERITO)",
+            "answers": ["presente", "passado", "futuro"]
+		},
+        {
+            "question": "TEMA________STREAMINGS DE FILMES/SERIES (NÃO VALE SITE PIRATA) (SE TIVER PLUS NO NOME TROQUE PELO +)",
+            "answers": ["Netflix", "Amazon Prime Video", "Disney+", "star+", "paramount+", "sky+", "looke", "uol play", "oldflix", "globoplay", "lionsgate+", "Max", "Hulu", "apple tv", "Apple TV+", "Paramount+", "Peacock", "Crave", "Crunchyroll", "Funimation", "HBO Now", "Showtime", "Sling TV", "YouTube Premium", "Tubi", "Vudu", "Mubi", "Rakuten Viki", "FuboTV"]
+		},
+        {
+            "question": "TEMA________NUMEROS POR EXTENSO DE 60 À 62",
+            "answers": ["sessenta e dois", "sessenta", "sessenta e um"]
+		},
+        {
+            "question": "TEMA________ANIMAIS COM A LETRA J",
+            "answers": ["Jacaré", "Jaguar", "Jararaca", "Jandaia", "Jaó", "jabiru", "jumento", "jaçana", "jubarte", "joao de barro", "jaburu", "joao barbudo", "jacu", "Javali", "joaninha", "jamanta", "Jegue", "Jiboia", "Jabuti", "Jandaíra", "jaguatirica"]
+		},
+        {
+            "question": "TEMA________ANOS QUE ALEMANHA FOI CAMPEÃ DA COPA DO MUNDO",
+            "answers": ["1954", "1974", "1990", "2014"]
+		},
+        {
+            "question": "TEMA________NOME DOS CANAIS DA REDE TELECINE (APENAS A PALAVRA)",
+            "answers": ["premium", "pipoca", "touch", "fun", "cult", "action"]
+		},
+        {
+            "question": "TEMA________VILÕES PRINCIPAIS DA SAGA HOMEM ARANHA (2002)",
+            "answers": ["duende verde", "doutor octopus", "venom", "homem areia"]
+		},
+        {
+            "question": "TEMA________ELEMENTOS DA TABELA PERIODICA COM A LETRA F",
+            "answers": ["Ferro", "Flúor", "Fósforo", "francio", "Fleróvio"]
+		},
+        {
+            "question": "TEMA________ARVORES FRUTIFERAS COM A LETRA A",
+            "answers": ["Abacateiro", "Aceroleira", "Ameixeira", "açaizeiro", "Amoreira", "Araçazeiro", "Atemoieira", "Atemoieira da flórida", "Atemoieira do cerrado", "Atiá", "Azeitoneira", "Abieiro", "Ameixoeira", "Aboi", "Abricó de macaco", "Abricó do pará", "Abrunheiro", "Abóbora", "Abiueiro", "Abrunheiro", "Ameixeira", "Amendoeira", "Amoreira", "Araçazeiro", "Arandeiro", "Araticunzeiro", "Aroeira Vermelha", "Atemoieira", "Aveleira", "Azeitoneira"]
+		},
+        {
+            "question": "TEMA________OBJETOS COM A LETRA D",
+            "answers": ["Dado", "Dinossauro de brinquedo", "dedal", "dentadura", "Dardo", "desentupidor", "delineador", "descascador", "disquete", "dildo", "diapasao", "Dado de jogo", "Dicionário", "Diário", "distintivo", "Diadema", "Divã", "Detergente", "Desodorante", "Drone", "Disco", "Disco de vinil", "DVD", "Detector de fumaça", "Desfibrilador", "Difusor", "Dado de pelúcia", "Dossel"]
+		},
+        {
+            "question": "TEMA________ALIENIGENAS DO BEN 10 (2005)",
+            "answers": ["Chama", "XLR8", "Quatro Braços", "Insectóide", "Diamante", "Massa Cinzenta", "Ultra T", "Fantasmatico", "Besta", "Aquático"]
+		},
+        {
+            "question": "TEMA________TIMES DO BRASILEIRÃO SERIE A 2024",
+            "answers": ["flamengo", "fluminense", "vasco", "botafogo", "criciuma", "cruzeiro", "cuiaba", "fortaleza", "gremio", "internacional", "vitoria", "athletico paranaense", "atletico mineiro", "atlético goianiense", "palmeiras", "sao paulo", "corinthians", "bragantino", "bahia", "juventude"]
+		},
+        {
+            "question": "TEMA________ESTAÇÃO DO ANO EM INGLES",
+            "answers": ["summer", "spring", "autumn", "winter"]
+		},
+        {
+            "question": "TEMA________OS 4 PRIMEIROS LIVROS DA BIBLIA EM ORDEM CRONOLOGICA",
+            "answers": ["Gênesis", "Êxodo", "Levítico", "Números"]
+		},
+        {
+            "question": "TEMA________DERIVADOS DO LEITE",
+            "answers": ["Queijo", "Manteiga", "Iogurte", "Leite condensado", "tofu", "sufle", "Leite em pó", "whey", "soro", "Creme de leite", "Requeijão", "Coalhada", "Sorvete", "Doce de leite", "Ricota", "Cream cheese", "Leite fermentado", "Nata", "Creme de ricota", "Molho branco", "Molho de queijo", "Gelato", "Mousse de leite", "Chantilly", "Bechamel", "Sufle de queijo", "Pudim de leite", "Torta de ricota", "Manjar", "Panna cotta", "Brigadeiro branco", "Flan", "Creme brulée", "Baba de moça"]
+		},
+        {
+            "question": "TEMA________NUMEROS PRIMOS DE 2 À 41",
+            "answers": ["2", "3", "5", "7", "11", "13", "17", "19", "23", "29", "31", "37", "41"]
+		},
+        {
+            "question": "TEMA________PROFISSOES COM A LETRA R (NO MASCULINO)",
+            "answers": ["Radiologista", "Recepcionista", "radialista", "Redator", "Revisor", "Roteirista", "reitor", "Repórter", "roupeiro", "Rabino", "Regente", "Rastreador", "Recebedor", "Relojoeiro", "Restaurador", "Rabdomante", "Radioterapeuta", "Rebarbador", "Rancheiro", "Repentista"]
+		},
+        {
+            "question": "TEMA________OS 3 MAIORES PAÍSES EM EXTENSÃO TERRITORIAL DA AMERICA DO SUL",
+            "answers": ["brasil", "argentina", "peru"]
+		},
+        {
+            "question": "TEMA________RAPPERS INTERNACIONAIS",
+            "answers": ["Eminem", "Jay Z", "pharrell williams", "Ty Dolla Sign", "central cee", "nelly", "trina", "da brat", "lil kim", "Foxy Brown", "azealia banks", "fabolous", "big l", "timbaland", "remy ma", "Papoose", "french montana", "asap ferg", "ja rule", "MC Eiht", "fat joe", "iggy azalea", "logic", "doja cat", "cardi b", "lil nas x", "kid cud", "Kanye West", "lil jon", "young thug", "lil baby", "jon lajoie", "pnb rock", "juicy j", "2 chainz", "lv", "will smith", "jamie foxx", "KRS One", "sean paul", "g eazy", "Kurtis Blow", "Ghostface Killah", "LL Cool J", "rakim", "andre 3000", "Big Daddy Kane", "Missy Elliott", "chuck d", "lil kim", "pusha t", "Black Thought", "q tip", "big pun", "Method Man", "dr dre", "gucci mane", "common", "p diddy", "r kelly", "Drake", "melle mel", "mc lyte", "jadakiss", "queen latifah", "bun b", "Nas", "nate dogg", "busta rhymes", "redman", "mos def", "e 40", "eazy e", "rick ross", "Snoop Dogg", "lil durk", "dmx", "ludacris", "ice t", "ti", "Ice Cube", "Lil Wayne", "50 Cent", "Notorious BIG.", "tupac", "XXXTentacion", "Kendrick Lamar", "Cardi B", "Nicki Minaj", "Travis Scott", "Post Malone", "Wiz Khalifa", "Future", "J Cole", "Lil Uzi Vert", "Migos", "Chance the Rapper", "ASAP Rocky", "Tyler The Creator", "Childish Gambino", "Logic", "Big Sean", "Lil Pump", "Juice WRLD", "Travis Barker"]
+		},
+        {
+            "question": "TEMA________SITES DE APOSTAS ESPORTIVAS",
+            "answers": ["bet365", "brazzino", "sportingbet", "superbet", "1xbet", "jonbet", "onabet", "sportsbet", "aposta ganha", "betsat", "vaidebet", "pixbet", "parimatch", "kto", "novibet", "betnacional", "pagbet", "betano", "estrelabet", "blaze", "stake", "betfair", "betway", "unibet"]
+		},
+        {
+            "question": "TEMA________ANIMAIS COM A LETRA P (NÃO VALE PEIXES)",
+            "answers": ["Panda", "Pato", "Pinguim", "Papagaio", "Puma", "pintassilgo", "piton", "planaria", "pombo", "ponei", "pinto", "pitbull", "pinscher", "porco espinho", "porquinho da india", "perereca", "periquito", "Porco", "pelicano", "panga", "pepino do mar", "percevejo", "Pantera", "Polvo", "Peru", "Piolho", "Piranha", "Pardal", "Preguiça", "Pavão", "Pardalote", "Papagaio do mar", "Pipa", "Pinguim de magalhães"]
+		},
+        {
+            "question": "TEMA________MODELOS DE PLACA DE VIDEO DA SERIE 3000 DA NVIDIA",
+            "answers": ["RTX 3090", "RTX 3080", "RTX 3070", "RTX 3060 Ti", "RTX 3060", "RTX 3050 Ti", "RTX 3050", "rtx 3090 ti", "rtx 3080 ti", "rtx 3070 ti"]
+		},
+        {
+            "question": "TEMA________OS 4 PERSONAGENS PRINCIPAIS DO FILME MADAGASCAR",
+            "answers": ["alex", "gloria", "marty", "melman"]
+		},
+        {
+            "question": "TEMA________OS PINGUINS DE MADAGASCAR",
+            "answers": ["capitao", "recruta", "rico", "kowalski"]
+		},
+        {
+            "question": "TEMA________OS 3 PRINCIPAIS MINIONS",
+            "answers": ["bob", "stuart", "kevin"]
+		},
+        {
+            "question": "TEMA________FIGURAS GEOMETRICAS",
+            "answers": ["Quadrado", "Triângulo", "Círculo", "Retângulo", "Losango", "Trapézio", "obtusângulo", "acutangulo", "paralelepipedo", "Pentágono", "Hexágono", "Heptágono", "dodecagano", "Octógono", "Cubo", "Cilindro", "Esfera", "Pirâmide", "Prisma", "Cone", "Tetraedro", "Dodecaedro", "Icosaedro", "Torus", "Paralelogramo", "Rombo", "Romboide", "Trapezóide", "Triângulo equilátero", "equilatero", "isosceles", "escaleno", "Triângulo isósceles", "Triângulo escaleno", "Círculo", "Elipse", "Setor circular"]
+		},
+        {
+            "question": "TEMA________DEUSES GREGOS",
+            "answers": ["Zeus", "Hera", "Poseidon", "Deméter", "Ares", "Atena", "Apolo", "Ártemis", "Hermes", "Héstia", "caos", "Afrodite", "hercules", "Hades", "Dionísio", "Hefesto", "Hera", "Hera", "Perséfone", "Hebe", "Eros", "Nêmesis"]
+		},
+        {
+            "question": "TEMA________JOGOS DA ROCKSTAR GAMES (NOME COMPLETO)",
+            "answers": ["Grand Theft Auto", "Red Dead Redemption", "Max Payne", "max payne 3", "Max Payne 2 The Fall of Max Payne", "Bully", "Midnight Club", "Manhunt", "LA Noire", "The Warriors", "Grand Theft Auto London 1969", "Grand Theft Auto London 1961", "Grand Theft Auto 2", "Grand Theft Auto III", "Grand Theft Auto Vice City", "Grand Theft Auto San Andreas", "Grand Theft Auto Advance", "Grand Theft Auto Liberty City Stories", "Grand Theft Auto Vice City Stories", "Manhunt 2", "Grand Theft Auto IV", "Grand Theft Auto Chinatown Wars", "Red Dead Redemption Undead Nightmare", "LA  Noire The VR Case Files", "Red Dead Redemption 2", "Grand Theft Auto V", "Grand Theft Auto The Trilogy", "Grand theft auto VI"]
+		},
+        {
+            "question": "TEMA________ELEMENTOS DA TABELA PERIODICA COM A LETRA H",
+            "answers": ["Hidrogênio", "Hélio", "Háfnio", "holmio", "Hassio"]
+		},
+        {
+            "question": "TEMA________APOSTOLOS DE JESUS",
+            "answers": ["Pedro", "André", "Tiago", "João", "Filipe", "Bartolomeu", "Mateus", "Tomé", "Tiago", "Tadeu", "Simão", "Judas"]
+		},
+        {
+            "question": "TEMA________CAPITAIS DO SUL DO BRASIL",
+            "answers": ["Porto Alegre", "Florianópolis", "Curitiba"]
+		},
+        {
+            "question": "TEMA________OS 3 MOSQUETEIROS",
+            "answers": ["athos", "porthos", "aramis"]
+		},
+        {
+            "question": "TEMA________PAÍSES DO NAFTA",
+            "answers": ["estados unidos", "canada", "mexico"]
+		},
+        {
+            "question": "TEMA________PAÍSES BALTICOS",
+            "answers": ["Estônia", "Letônia", "Lituânia"]
+		},
+        {
+            "question": "TEMA________MATERIAL DAS CASAS DOS 3 PORQUINHOS",
+            "answers": ["palha", "madeira", "tijolo"]
+		},
+        {
+            "question": "TEMA________OS 5 ACENTOS DA LINGUA PORTUGUESA (NÃO USE ACENTO ANTES DA PALAVRA)",
+            "answers": ["agudo", "circunflexo", "grave", "crase", "til"]
+		},
+        {
+            "question": "TEMA________MATERIAL DAS CASAS DOS 3 PORQUINHOS",
+            "answers": ["palha", "madeira", "tijolo"]
+		},
+        {
+            "question": "TEMA________ELEMENTOS DA NATUREZA",
+            "answers": ["Terra", "Água", "Ar", "Fogo"]
+		},
+        {
+            "question": "TEMA________AS PRINCIPAIS FUNÇOES INORGANICAS DA QUIMICA",
+            "answers": ["Ácidos", "Bases", "Sais", "Óxidos"]
+		},
+        {
+            "question": "TEMA________PAÍSES DO EIXO",
+            "answers": ["alemanha", "italia", "japao"]
+		},
+        {
+            "question": "TEMA________PRINCIPAIS TIPOS DE RELEVOS",
+            "answers": ["Montanha", "Planície", "Planalto", "depressao"]
+		},
+        {
+            "question": "TEMA________SOBRINHOS DO PATO DONALD",
+            "answers": ["Huguinho", "Zezinho", "Luisinho"]
+		},
+        {
+            "question": "TEMA________AS 3 LEIS DE NEWTON",
+            "answers": ["inercia", "açao e reaçao", "dinamica"]
+		},
+        {
+            "question": "TEMA________CORES SECUNDARIAS (NÃO VALE A VARIAÇÃO VIOLETA)",
+            "answers": ["laranja", "verde", "roxo"]
+		},
+        {
+            "question": "TEMA________AS 3 MARIAS NA CONSTELAÇÃO DE ORION",
+            "answers": ["mintaka", "alnilam", "alnitak"]
+		},
+        {
+            "question": "TEMA________REINOS DA BIOLOGIA",
+            "answers": ["animal", "fungi", "vegetal", "monera", "protista"]
+		},
+        {
+            "question": "TEMA________OS 5 MAIORES PAÍSES POR EXTENSÃO",
+            "answers": ["russia", "estados unidos", "china", "brasil", "canada"]
+		},
+        {
+            "question": "TEMA________POSIÇÕES DOS JOGADORES NO FUTEBOL",
+            "answers": ["Goleiro", "Zagueiro", "Lateral", "Volante", "Meio campista", "Ponta", "Atacante", "Centroavante"]
+		},
+        {
+            "question": "TEMA________REGIOES DA ASIA",
+            "answers": ["Ásia Central", "Ásia Oriental", "asia Setentrional", "Sudeste Asiático", "asia meridional", "Oriente Médio", "Extremo Oriente"]
+		},
+        {
+            "question": "TEMA________AS 7 PRINCIPAIS NOTAS MUSICAIS",
+            "answers": ["Dó", "Ré", "Mi", "Fá", "Sol", "Lá", "Si"]
+		},
+        {
+            "question": "TEMA________OS 7 ANÕES DA BRANCA DE NEVE",
+            "answers": ["Dunga", "Zangado", "Feliz", "Mestre", "Atchim", "Soneca", "Dengoso"]
+		},
+        {
+            "question": "TEMA________PAÍSES DO G-8",
+            "answers": ["Estados Unidos", "Canadá", "Reino Unido", "França", "Alemanha", "Itália", "Japão", "russia"]
+		},
+        {
+            "question": "TEMA________OS 3 TIPOS DE CHUVA",
+            "answers": ["Frontal", "Convectiva", "Orográfica"]
+		},
+        {
+            "question": "TEMA________VITAMINAS DO CORPO HUMANO (APENAS A LETRA/NUMERO)",
+            "answers": ["A", "B1", "B2", "B3", "B5", "B6", "B7", "B9", "B12", "C", "D", "E", "K"]
+		},
+        {
+            "question": "TEMA________LUTAS",
+            "answers": ["Boxe", "Judô", "Caratê", "capoeira", "wing chun", "Taekwondo", "Muay Thai", "Jiu Jitsu", "Wrestling", "Capoeira", "Kung Fu", "Kickboxing", "Krav Maga", "Aikido", "Hapkido", "Karate Kyokushin", "Kendo", "Luta Livre", "Sambo", "Sanda", "Sumô", "Wushu", "karate"]
+		},
+        {
+            "question": "TEMA________OS 3 PRINCIPAIS VASOS SANGUINEOS (NO PLURAL)",
+            "answers": ["Artérias", "Veias", "Capilares"]
+		},
+        {
+            "question": "TEMA________OS 8 P's DO MARKETING",
+            "answers": ["Produto", "Preço", "Praça", "Promoção", "Pessoas", "Processos", "Posicionamento", "perfomance"]
+		},
+        {
+            "question": "TEMA________PILOTOS DA FORMULA 1 2024 (APENAS SOBRENOME)",
+            "answers": ["verstappen", "leclerc", "hamilton", "russell", "sainz", "albon", "zhou", "ricciardo", "ocon", "gasly", "sargeant", "perez", "bottas", "piastri", "norris", "alonso", "stroll", "tsunoda", "hulkenberg", "magnussen"]
+		},
+        {
+            "question": "TEMA________CONSOLES/VIDEO GAMES",
+            "answers": ["Atari 2600", "atari", "Nintendo", "Super Nintendo", "Sega Genesis", "PlayStation", "Nintendo 64", "playstation portable", "Sega Dreamcast", "PlayStation 2", "Xbox", "GameCube", "PlayStation 3", "Wii", "nintendo wii", "Xbox 360", "steam deck", "polystation", "xbox series s", "PlayStation 4", "Xbox One", "Nintendo Switch", "PlayStation 5", "game boy", "Xbox Series X", "Nintendo Game Boy", "Nintendo DS"]
+		},
+        {
+            "question": "TEMA________EMOÇÕES DO FILME DIVERTIDA MENTE (2015)",
+            "answers": ["alegria", "tristeza", "nojinho", "raiva", "medo"]
+		},
+        {
+            "question": "TEMA________TOP 10 ESTÁDIOS COM MAIOR CAPACIDADE NO BRASIL (APENAS O APELIDO)",
+            "answers": ["maracana", "mane garrincha", "morumbi", "arena castelao", "mineirao", "arruda", "arena do gremio", "mangueirao", "beira rio", "neo quimica arena"]
+		},
+        {
+            "question": "TEMA________MODELOS DE CARRO DA FIAT (APENAS O NOME DIRETAMENTE)",
+            "answers": ["Uno", "Palio", "Strada", "Punto", "elba", "panorama", "weekend", "1900", "premio", "2000", "albea", "pulse", "titano", "dino", "city", "850", "1100", "freemont", "idea", "argenta", "mio", "marengo", "zero", "ritmo", "seicento", "sedici", "stilo", "tipo", "topolino", "oggi", "multipla", "fastback", "scudo", "130", "131", "132", "ducato", "Fiorino", "Siena", "Doblò", "Uno Mille", "Linea", "Toro", "Mobi", "Argo", "Cronos", "siena", "Grand Siena", "500", "Bravo", "Tempra", "Stilo", "Idea", "147", "Uno Way", "Brava", "500X", "500L", "Cinquecento", "Panda", "Coupé", "Freemont", "Marea", "Qubo"]
+		},
+        {
+            "question": "TEMA________MEMBROS DO ONE DIRECTION (NOME E SOBRENOME POPULAR)",
+            "answers": ["harry styles", "zayn malik", "niall horan", "Louis Tomlinson", "liam payne"]
+		},
+        {
+            "question": "TEMA________INTEGRANTES DO GRUPO FIFHT HARMONY (NOME E SOBRENOME POPULAR)",
+            "answers": ["Ally Brooke", "Normani Kordei", "Dinah Jane", "Lauren Jauregui", "Camila Cabello"]
+		},
+        {
+            "question": "TEMA________KITS DE MAQUIAGEM",
+            "answers": ["Base", "Corretivo", "Pó compacto", "Blush", "Bronzer", "Iluminador", "Primer", "Batom", "Gloss", "Lápis de olho", "lip tint", "Delineador", "Máscara de cílios", "Sombra", "Lápis de sobrancelha", "Máscara para sobrancelhas", "Fixador de maquiagem", "BB Cream", "CC Cream", "Protetor labial", "Removedor de maquiagem"]
+		},
+        {
+            "question": "TEMA________SITES DE SERVIÇO DE HOSPEDAGEM DE ARQUIVO EM NUVEM",
+            "answers": ["Google Drive", "Dropbox", "OneDrive", "Mega", "terabox", "Box", "Amazon Drive", "icloud", "WeTransfer", "pCloud", "MediaFire", "Sync", "SugarSync", "Zippyshare", "4shared", "FileFactory", "DepositFiles", "RapidShare", "Hightail", "Fileserve", "MediaCrush", "Yandex Disk"]
+		},
+        {
+            "question": "TEMA________OBJETOS COM A LETRA G",
+            "answers": ["Garfo", "Guarda chuva", "Geladeira", "Guitarra", "gangorra", "gargantilha", "gaita", "grade", "giroflex", "guilhotina", "grill", "grampo", "gancho", "Gaveta", "galao", "Grampeador", "Globo", "Gravata", "Giz", "Gás", "gaiola", "Gema", "Giz de cera", "Gaiola", "Galocha", "Gongo", "Garrafa", "Garrafa térmica", "Gazebo", "Galinha de cerâmica", "Globo terrestre", "Gibi", "Gorro", "Grelha", "Guardanapo", "Gramofone", "Gôndola", "Guarda roupa", "Grampos de cabelo", "Grampeador", "Guitarra elétrica"]
+		},
+        {
+            "question": "TEMA________AS 3 PRINCIPAIS CIDADES DO GTA SAN ANDREAS",
+            "answers": ["los santos", "las venturas", "san fierro"]
+		},
+        {
+            "question": "TEMA________MARES DO OCEANO ARTICO (NOME DIRETAMENTE)",
+            "answers": ["Barents", "Kara", "Laptev", "Chukchi", "Beaufort", "Amundsen", "siberiano oriental"]
+		},
+        {
+            "question": "TEMA________PRINCESAS DA DISNEY",
+            "answers": ["Branca de Neve", "Cinderela", "Aurora", "Elsa", "Ariel", "Bela", "Jasmine", "Pocahontas", "Mulan", "Tiana", "Rapunzel", "Raya", "Mérida", "Moana"]
+		},
+        {
+            "question": "TEMA________MUSICAS DO JUSTIN BIEBER COM MAIS DE 1 BILHÃO DE VISUALIZAÇÃO NO YOUTUBE",
+            "answers": ["sorry", "baby", "what do you mean?", "love yourself", "never say never", "beauty and a beat"]
+		},
+        {
+            "question": "TEMA________TIPOS DE FEIJÕES (USE FEIJÃO ANTES DA PALAVRA)",
+            "answers": ["Feijão preto", "Feijão carioca", "Feijão branco", "Feijão fradinho", "feijão marrom", "feijao verde", "feijao macassar", "feijao rosa", "feijao fava", "Feijão verde", "Feijão vermelho", "Feijão rajado", "Feijão mulatinho", "Feijão roxinho", "Feijão rosinha", "Feijão jalo", "Feijão azuki", "Feijão canário", "Feijão manteiga", "Feijão bolinha", "Feijão de corda", "Feijão de porco", "Feijão cavalo", "Feijão de lima", "Feijão caupi", "Feijão bravo"]
+		},
+        {
+            "question": "TEMA________PERSONAGENS DO FOLCLORE BRASILEIRO",
+            "answers": ["Curupira", "Boitatá", "Saci Pererê", "Mula sem Cabeça", "Cuca", "Boto Cor de Rosa", "Iara", "Negrinho do Pastoreio", "Bumba Meu Boi", "Caipora", "Lobisomem", "Matinta Pereira", "Mulher de Branco", "Cabeça Satânica", "Pisadeira", "Jurupari", "Caboclo dÁgua", "Bicho Papão", "Bicho do Mato", "Papa Figo"]
+		},
+        {
+            "question": "TEMA________TURMA DO CHAVES",
+            "answers": ["Chaves", "Chiquinha", "Seu Madruga", "Dona Florinda", "Quico", "Professor Girafales", "Dona Clotilde", "Nhonho", "Senhor Barriga", "Jaiminho", "Godinez", "Popis", "Malicha", "Gaston", "Jorel", "Cirilo", "Paty", "Glória", "Pópis", "Kiko", "Seu Furtado", "Jaimito"]
+		},
+        {
+            "question": "TEMA________EMPRESAS QUE FABRICAM PLACA DE VIDEO",
+            "answers": ["NVIDIA", "AMD", "ASUS", "Gigabyte", "MSI", "EVGA", "soyo", "maxsun", "intel", "ZOTAC", "superframe", "pcyes", "elsa", "51risc", "Sapphire", "Galax", "PowerColor", "PNY", "XFX", "Colorful", "Inno3D", "HIS", "Gainward", "Palit", "ASRock", "Biostar", "Leadtek"]
+		},
+        {
+            "question": "TEMA________PAÍSES QUE SEDIARAM A COPA ENTRE 2010-2018",
+            "answers": ["africa do sul", "brasil", "russia"]
+		},
+        {
+            "question": "TEMA________TRADUZA PARA O INGLÊS UMA PALAVRA A SEGUIR: PEIXE BOLA GATO",
+            "answers": ["fish", "ball", "cat"]
+		},
+        {
+            "question": "TEMA________ESPECIES DE COBRA",
+            "answers": ["Naja", "Jararaca", "Coral", "Pitão", "Sucuri", "Cobra Cipó", "Anaconda", "Urutu", "Jiboia", "caninana", "Mamba Negra", "piton", "coral falsa", "Cobra Real", "Cobra Rei", "Cascavel", "Cobra de Vidro", "Cobra dÁgua", "Cobra Preta", "Cobra de Fogo", "Cobra Tigre", "Cobra Rato", "Víbora", "Cobra Marrom", "Cobra Dágua de Colar", "Cobra Lisa", "Cobra Voadora", "Cobra Escorpião", "Cobra Cega", "Cobra Dágua de Cauda Fina", "Cobra Verde", "Cobra Cipó Marrom", "Cobra Lixa"]
+		},
+        {
+            "question": "TEMA________MESES COM 30 DIAS",
+            "answers": ["Abril", "Junho", "Setembro", "Novembro"]
+		},
+        {
+            "question": "TEMA________CAPITAIS DO BRASIL",
+            "answers": ["Rio Branco", "Maceió", "Macapá", "Manaus", "Salvador", "Fortaleza", "Brasília", "Vitória", "Goiânia", "São Luís", "Cuiabá", "Campo Grande", "Belo Horizonte", "Belém", "João Pessoa", "Curitiba", "Recife", "Teresina", "Rio de Janeiro", "Natal", "Porto Alegre", "Porto Velho", "Boa Vista", "Florianópolis", "São Paulo", "Aracaju", "Palmas"]
+		},
+        {
+            "question": "TEMA________ACESSORIOS",
+            "answers": ["Colar", "Pulseira", "Anel", "Brinco", "tornozeleira", "pochete", "aliança", "cachecol", "piercing", "touca", "cordao", "corrente", "Relógio", "Lenço", "Cinto", "Chapéu", "Óculos de sol", "Bolsa", "oculos", "Gravata", "Broche", "Tiara", "Suspensório", "Luvas", "Meias", "Gravata borboleta", "Carteira", "Bracelete", "Gargantilha", "Porta-celular", "Abotoadura", "Lenço de bolso", "Pregador de gravata", "Prendedor de cabelo", "Boné", "Guarda chuva", "Bracelete de tornozelo", "Broche de lapela"]
+		},
+        {
+            "question": "TEMA________DEUSES NORDICOS",
+            "answers": ["Odin", "Thor", "Frigg", "Loki", "Balder", "Tyr", "Freya", "Heimdall", "Skadi", "Njord", "Hel", "Fenrir", "Jormungandr", "Sif", "Bragi", "Idun", "Nanna", "Forseti", "Ullr", "Vidar"]
+		},
+        {
+            "question": "TEMA________CIDADES QUE CONTÉM PENITENCIARIA FEDERAL",
+            "answers": ["catanduvas", "campo grande", "mossoro", "porto velho", "brasilia"]
+		},
+        {
+            "question": "TEMA________OS 4 PRINCIPAIS TIMES DO RIO DE JANEIRO",
+            "answers": ["flamengo", "fluminense", "vasco", "botafogo"]
+		},
+        {
+            "question": "TEMA________OS 4 PRINCIPAIS TIMES DE SÃO PAULO",
+            "answers": ["palmeiras", "sao paulo", "corinthians", "santos"]
+		},
+        {
+            "question": "TEMA________EMISSORAS BRASILEIRAS",
+            "answers": ["Globo", "SBT", "Record", "Band", "RedeTV", "tv senado", "viva", "globo news", "tv tupi", "tv manchete", "TV Cultura", "tv excelsior", "tv diario", "Gazeta", "TV Brasil", "band news", "comedy central brasil", "canal do boi", "TV Aparecida", "Rede Vida", "SBT", "Record news", "MTV Brasil", "TV Gazeta", "CNT", "Rede 21", "TV Canção Nova", "TV Escola", "RIT", "TV Tarobá"]
+		},
+        {
+            "question": "TEMA________PERSONAGENS DO FILME CIDADE DE DEUS",
+            "answers": ["Zé Pequeno", "Buscapé", "berenice", "thiago", "marina", "barbantinho", "cabeçao", "lampiao", "paraiba", "grande", "exu", "rafael", "salgueiro", "Bene", "Mané Galinha", "dadinho", "Cabeleira", "angelica", "file com fritas", "Alicate", "Marreco", "Cenoura", "Neguinho", "Cabeleira", "Sandrão", "Tio Sam"]
+		},
+        {
+            "question": "TEMA________AS 3 ESCOLAS DE SAMBA DO RJ COM MAIS TITULOS",
+            "answers": ["portela", "mangueira", "beija flor"]
+		},
+        {
+            "question": "TEMA________REDES SOCIAIS DA META",
+            "answers": ["facebook", "instagram", "Messenger", "WhatsApp"]
+		},
+        {
+            "question": "TEMA________NOMES DA FAMILIA PRINCIPAL DE EU A PATROA E AS CRIANÇAS (APENAS PRIMEIRO NOME)",
+            "answers": ["michael", "junior", "kady", "claire", "janet"]
+		},
+        {
+            "question": "TEMA________JOGADORES QUE GANHARAM A BOLA DE OURO ENTRE 2005-2007",
+            "answers": ["ronaldinho", "cannavaro", "kaka"]
+		},
+        {
+            "question": "TEMA________CORES DA BANDEIRA DA ALEMANHA",
+            "answers": ["preto", "vermelho", "amarelo"]
+		},
+        {
+            "question": "TEMA________SIGLAS DAS FACÇÕES FAMOSAS NO BRASIL",
+            "answers": ["CV", "PCC", "ADA", "TCP", "FDN", "GDE", "BD13", "CCA", "CP", "BDM", "BD40"]
+		},
+        {
+            "question": "TEMA________FAMOSOS BRASILEIROS QUE MORRERAM EM ACIDENTE AEREO",
+            "answers": ["Ricardo Boeachat", "Eduardo Campos", "Gabriel Diniz", "Marilia mendonça", "Mamonas Assassinas", "Teori Zavascki", "Ulysses Guimarães"]
+		},
+        {
+            "question": "TEMA________BANCOS OU CARTEIRAS DIGITAIS QUE OPERAM NO BRASIL",
+            "answers": ["Nubank", "PicPay", "Mercado Pago", "PagBank", "paypal", "citibank", "infinitepay", "Inter", "Next", "Santander SX", "Banco Original", "Digio", "Agibank", "Neon", "BanQi", "iti", "Superdigital", "BS2", "PagSeguro", "SumUp", "Mooba", "Credicard", "Bradesco Next", "inter", "Banco do Brasil", "Bradesco", "Itaú", "Caixa", "Santander", "Banrisul", "Banco Safra", "safra", "Banco Inter", "Banco Original", "Banco Pan", "Banco do Nordeste", "BTG Pactual", "Banco Mercantil do Brasil", "Banco da Amazônia", "Sicoob", "Bancoob", "Banestes", "BMG", "C6 Bank", "Neon"]
+		},
+        {
+            "question": "TEMA________ÓRGÃOS DO SISTEMA DE SEGURANÇA DO BRASIL (NOME COMPLETO)",
+            "answers": ["Polícia Federal", "Polícia Rodoviária Federal", "Polícia Civil", "Polícia Militar", "Guarda Municipal", "Agência Brasileira de Inteligência", "Forças Armadas", "Secretaria Nacional de Segurança Pública", "Departamento Penitenciário Nacional", "Força Nacional de Segurança Pública", "Conselho Nacional de Justiça", "Conselho Nacional do Ministério Público", "Ministério da Justiça e Segurança Pública"]
+		},
+        {
+            "question": "TEMA________PERSONAGENS DO TOY STORY",
+            "answers": ["Woody", "Buzz Lightyear", "Jessie", "Dolly", "rocky", "Barbie", "Hamm", "Troll", "ai", "pete fedido", "wheezy", "mr spell", "geri", "Lotso", "Trixie", "Buttercup", "Peas in a Pod", "Senhor Cabeça de Batata", "Slinky", "Porquinho", "Rex", "Betty", "Andy", "Sid", "Molly", "Bo Peep", "Aliens", "Zurg", "Bala no Alvo", "Senhora Cabeça de Batata", "Tiro ao Alvo", "Slinky", "Billy Goat e Gruff", "Ken"]
+		},
+        {
+            "question": "TEMA________NOMES DAS BOLAS DE FUTEBOL DAS COPAS DO MUNDO",
+            "answers": ["Telstar", "Telstar Durlast", "Tango", "Tango España", "Azteca", "Etrusco Unico", "Questra", "Tricolore", "Fevernova", "Teamgeist", "Jabulani", "Brazuca", "Telstar 18", "Telstar Mechta"]
+		},
+        {
+            "question": "TEMA________TIPOS DE PISOS",
+            "answers": ["Porcelanato", "Cerâmica", "Mármore", "Granito", "Laminado", "Vinílico", "madeira", "concreto", "intertravado", "emborrachado", "pedra", "carpete", "borracha", "cimento queimado", "ardósia", "parquet", "tijolinho", "mosaico", "mármore travertino", "vidro", "granilite", "pedra miracema", "pedra portuguesa", "cerâmica esmaltada", "resina epóxi", "concreto polido", "pedra ardósia", "seixo rolado", "ladrilho hidráulico"]
+		},
+        {
+            "question": "TEMA________CAPITAIS DOS PAÍSES DA AMERICA DO SUL",
+            "answers": ["Buenos Aires", "Brasília", "Santiago", "Bogotá", "Quito", "Georgetown", "Assunção", "Lima", "Paramaribo", "Montevidéu", "Caracas", "Sucre"]
+		},
+        {
+            "question": "TEMA________AGRADECIMENTOS (APENAS UMA PALAVRA)",
+            "answers": ["Obrigado", "Grato", "Agradecido", "valeu", "gratifico", "penhorado", "disponha", "reconhecido"]
+		},
+        {
+            "question": "TEMA________NOMES MASCULINOS COM 4 LETRAS E INICIAL A",
+            "answers": ["Alan", "alef", "alek", "amon", "atos", "ario", "azer", "aser", "adao", "arai", "atis", "afif", "adom", "amis", "avis", "airy", "anto", "anon", "anco", "asma", "azim", "acis", "arao", "Alex", "alam", "amir", "acir", "acaz", "avne", "adir", "adel", "ajax", "aran", "alfa", "aury", "adah", "anor", "Amar", "Aron", "Abel", "Alec", "aziz", "adler", "Ario", "Axel", "ageu", "adiel", "Adam", "Afon", "Aric", "Aron", "Ares", "Ario", "Alem", "Alon", "Avel", "Avim", "Aure", "Arlo", "Axil", "Alar", "Arun", "Asim", "Aymê", "Aziz", "Azel", "Aldo", "Aaru", "Azem", "Adem", "Adil", "Afim", "Arly", "Armo", "Atru", "Axim", "Amim", "Anel"]
+		},
+        {
+            "question": "TEMA________TIPOS DE COZINHADOS DE BATATA",
+            "answers": ["Purê", "Assada", "Frita", "Cozida", "Gratinada", "Rosti", "Sauté", "Chips", "Gnocchi", "Croquete", "Escondidinho", "Rösti", "Hash", "Aligot", "Dauphinoise", "Batata doce", "Anna", "palha"]
+		},
+        {
+            "question": "TEMA________NUMEROS POR EXTENSO DE 954 À 956",
+            "answers": ["novecentos e cinquenta e quatro", "novecentos e cinquenta e cinco", "novecentos e cinquenta e seis"]
+		},
+        {
+            "question": "TEMA________ESPECIES DE URSO (USE URSO ANTES DO NOME)",
+            "answers": ["Urso polar", "Urso pardo", "Urso negro", "Urso de óculos", "urso grolar", "urso de kodiak", "urso cinzento", "urso de kermode", "Urso negro asiático", "Urso andino", "urso beiçudo", "urso panda", "Urso malaio"]
+		},
+        {
+            "question": "TEMA________DOENÇAS SEXUALMENTE TRANSMISSÍVEIS",
+            "answers": ["Sífilis", "Gonorréia", "Clamídia", "Herpes", "Hepatite B", "Hepatite C", "aids", "hiv", "Tricomoníase", "Candidíase", "cancro mole", "cancro duro", "Papilomavírus", "Condiloma", "Linfogranuloma", "Granuloma", "Pediculose", "Erisipela", "Linfadenite", "Prostatite", "Uretrite", "Orquite", "Vaginite"]
+		},
+        {
+            "question": "TEMA________MEDALHAS OLIMPICAS",
+            "answers": ["ouro", "prata", "bronze"]
+		},
+        {
+            "question": "TEMA________PALAVRAS DA SIGLA (FDS)",
+            "answers": ["final", "de", "semana"]
+		},
+        {
+            "question": "TEMA________DESENHOS ANIMADOS DA DREAMWORKS",
+            "answers": ["Shrek", "Madagascar", "Kung Fu Panda", "As Aventuras do Capitão Cueca", "Bee Movie A História de Uma Abelha", "A Origem dos Guardiões", "As Aventuras de Peabody e Sherman", "Cada um na Sua Casa", "Como Treinar o Seu Dragão", "por agua abaixo", "O Espanta Tubarões", "O Poderoso Chefinho", "Os Sem Floresta", "Megamente", "O Príncipe do Egito", "A Fuga das Galinhas", "FormiguinhaZ", "Monstros vs Alienígenas", "Trolls", "Abominável", "Spirit O Corcel Indomável", "O Caminho para El Dorado", "A Origem dos Guardiões", "O Espanta Tubarões", "O Gato de Botas", "Tá Dando Onda", "Turbo", "O Bicho Vai Pegar", "Wallace & Gromit A Batalha dos Vegetais", "Os Croods", "Flushed Away", "Pequenos Espiões", "Capitão Cueca O Filme", "Home A Minha Casa", "Os Pinguins de Madagascar", "Os Fugitivos"]
+		},
+        {
+            "question": "TEMA________TIPOS DE TECIDOS",
+            "answers": ["Algodão", "Seda", "Linho", "Lã", "Cetim", "Veludo", "Couro", "Flanela", "Chiffon", "Nylon", "fio egipcio", "Poliéster", "Spandex", "kevla", "poliamida", "Tule", "Tafetá", "Organza", "Feltro", "Renda", "Denim", "Sarja", "Tweed"]
+		},
+        {
+            "question": "TEMA________CORES DO SEMÁFARO",
+            "answers": ["amarelo", "verde", "vermelho"]
+		},
+        {
+            "question": "TEMA________SUBSTANTIVOS COLETIVOS DE UNIDADES DE TEMPO",
+            "answers": ["Eternidade", "quadrimestre", "nonamestre", "hora", "segundo", "minuto", "milessimo", "decamestre", "andecamestre", "quinquimestre", "semestre", "septuamestre", "octamestre", "Ano", "dia", "semana", "novena", "quinzena", "mes", "Década", "Século", "Milênio", "Bimestre", "Trimestre", "Semestre", "Bimestre", "Quadrissemana", "Lustro", "Biênio", "Triênio", "Tetra", "Quadriênio", "Quinquênio", "Septênio", "Octênio", "Decênio", "Lustrum", "Séptuplo", "Nonênio", "Dodecênio", "Vigésimo", "Centúria", "Bicentenário", "Ternário", "Quadragenário", "Quinquagenário", "Sexagenário"]
+		},
+        {
+            "question": "TEMA________SUBSTANTIVOS COLETIVOS DE PESSOAS",
+            "answers": ["assembleia", "banda", "batalhao", "legiao", "pelotao", "tropa", "caravana", "choldra", "corja", "chusma", "conclave", "congregaçao", "consistorio", "corpo docente", "elenco", "emanaue", "exercito", "familia", "farandula", "multidao", "orquestra", "camerata", "pleiade", "prelatura", "populaçao", "povo", "quadrilha", "tertulia", "time", "equipe", "turma", "classe"]
+		},
+        {
+            "question": "TEMA________RISADAS (LIMITE HÁ EXATAMENTE 4 LETRAS)",
+            "answers": ["kkkk", "haha", "rsrs", "ksks", "kjkj", "klkl", "lmao", "jaja", "keke", "kaka", "hehe", "hihi", "riri", "mmmm", "pkep", "kepk", "huas", "shua"]
+		},
+        {
+            "question": "TEMA________TIPOS SANGUINEOS",
+            "answers": ["a", "ab", "o", "b"]
+		},
+        {
+            "question": "TEMA________AS 3 PRINCIPAIS PARTICULAS ATOMICAS",
+            "answers": ["protons", "neutrons", "eletrons"]
+		},
+        {
+            "question": "TEMA________CASAS DE HOGWARTS",
+            "answers": ["Sonserina", "Grifinória", "Corvinal", "Lufa Lufa"]
+		},
+        {
+            "question": "TEMA________OSSOS DO OUVIDO",
+            "answers": ["estribo", "martelo", "bigorna"]
+		},
+        {
+            "question": "TEMA________TURMA DO SCOOBY DOO",
+            "answers": ["Scooby Doo", "Salsicha", "Fred", "Daphne", "Velma"]
+		},
+        {
+            "question": "TEMA________CAMADAS DA ATMOSFERA",
+            "answers": ["Troposfera", "Estratosfera", "Mesosfera", "Termosfera", "Exosfera"]
+		},
+        {
+            "question": "TEMA________CORES DO ARCO IRIS",
+            "answers": ["Vermelho", "Laranja", "Amarelo", "Verde", "Azul", "Anil", "Violeta"]
+		},
+        {
+            "question": "TEMA________CLASSES GRAMATICAIS",
+            "answers": ["Substantivo", "Adjetivo", "Verbo", "Advérbio", "Pronome", "Preposição", "Conjunção", "Interjeição", "Artigo", "Numeral"]
+		},
+        {
+            "question": "TEMA________RAZOES TRIGONOMETRICAS",
+            "answers": ["seno", "cosseno", "tangente"]
+		},
+        {
+            "question": "TEMA________CLASSIFICAÇÕES TAXONOMICAS",
+            "answers": ["Reino", "Filo", "Classe", "Ordem", "Família", "Gênero", "Espécie"]
+		},
+        {
+            "question": "TEMA________TOP 7 SOBRENOME MAIS USADO NO BRASIL (NÃO VALE SOUSA/SOUZA)",
+            "answers": ["silva", "santos", "oliveira", "pereira", "alves", "rodrigues", "ferreira"]
+		},
+        {
+            "question": "TEMA________PALAVRAS EM INGLES DA SIGLA (FPS) NOS JOGOS",
+            "answers": ["frame", "per", "second"]
+		},
+        {
+            "question": "TEMA________CANTORES QUE PARTICIPARAM DO DVD QUINTAL DO ZECA PAGODINHO 2012",
+            "answers": ["zeca pagodinho", "almir guineto", "monarco", "nelson rufino", "jorge ben jor", "Leandro Di Menor", "trio preto", "xande de pilares", "arlindo neto", "efson", "fred camacho", "dunga", "jorge aragao", "ze roberto", "mumuzinho", "toninho geraes", "mariene de castro", "seu jorge", "serginho meriti", "beth carvalho", "sombrinha", "arlindo cruz", "alamir", "dudu nobre", "trio calafrio", "martinho da vila"]
+		},
+        {
+            "question": "TEMA________TOP 16 FAVELAS/COMPLEXOS MAIS POPULOSA DO RJ",
+            "answers": ["complexo de senador camara", "inhoaiba", "complexo da mangueira", "manguinhos", "complexo do alemao", "complexo da pedreira", "complexo do lins", "jacarezinho", "vila kennedy", "complexo de acari", "complexo da mare", "rocinha", "complexo de israel", "cidade de deus", "complexo da penha", "complexo do chapadao"]
+		},
+        {
+            "question": "TEMA________OS 5 PAÍSES QUE ENTRARAM EM GUERRA RECENTE",
+            "answers": ["russia", "ucrania", "israel", "ira", "palestina"]
+		},
+        {
+            "question": "TEMA________SINONIMO DE (PAZ) PARA CESSAÇÃO DE HOSTILIDADES",
+            "answers": ["armistício", "indúcias", "trégua"]
+		},
+        {
+            "question": "TEMA________SINONIMO DE (OUVIR) PARA PERCEBER SONS COM O OUVIDO",
+            "answers": ["escutar", "perceber", "entender", "sentir"]
+		},
+        {
+            "question": "TEMA________VERBOS CONTRARIO DE IR OU PERCORRER",
+            "answers": ["parar", "estacar", "deter", "estagnar", "paralisar"]
+		},
+        {
+            "question": "TEMA________AS 3 PRINCIPAIS CIDADES DA CALIFORNIA",
+            "answers": ["san francisco", "los angeles", "san diego"]
+		},
+        {
+            "question": "TEMA________OS 10 MAIORES PREDADORES DO REINO ANIMAL",
+            "answers": ["tubarao branco", "orca", "leao", "sucuri", "crocodilo", "urso polar", "lobo cinzento", "urso cinzento", "aguia de cabeça branca", "hiena"]
+		},
+        {
+            "question": "TEMA________MARCAS DE PAPEL HIGIENICO",
+            "answers": ["personal", "mili", "mimmo", "sublime", "bom", "stylus", "ness", "paloma", "sonho", "scooty", "fofo", "alveflor", "bambino", "carinho", "renova", "delicate", "fofinho", "fofinho absolute", "deluxe", "duetto", "trump", "ole", "familiar", "valor", "bambino", "softness", "best lite", "klass", "alpino", "fancy", "sulleg", "tribom", "cotton", "max pure", "neve", "elite"]
+		},
+        {
+            "question": "TEMA________OS 10 MAIORES LUTADORES DE MMA DO BRASIL",
+            "answers": ["amanda nunes", "alex poatan", "lyoto machida", "fabricio werdum", "vitor belfort", "demian maia", "minotauro", "wanderlei silva", "jose aldo", "anderson silva"]
+		},
+        {
+            "question": "TEMA________ANOS QUE DUROU A SEGUNDA GUERRA MUNDIAL",
+            "answers": ["1939", "1940", "1941", "1942", "1943", "1944", "1945"]
+		},
+        {
+            "question": "TEMA________CHAPEUS",
+            "answers": ["Fedora", "Panamá", "Bowler", "Coco", "Boina", "gorro", "durag", "touca", "cartola", "bone", "Chapéu coco", "chapeu de pirata", "Chapéu de palha", "Chapéu de cowboy", "Chapéu de feltro", "Chapéu de abas largas", "Chapéu de balde", "Chapéu de marinheiro", "Chapéu de pescador", "Chapéu de gangster", "Chapéu de bombeiro", "Chapéu de marinheiro", "Chapéu de palha mexicano", "Chapéu de aviador", "Chapéu de gangster", "Chapéu de palha", "Chapéu de sol", "Chapéu de chuva", "Chapéu de caubói", "Chapéu de montaria", "Chapéu de raposa", "Chapéu de pajem", "Chapéu de chef", "Chapéu de bruxa", "Chapéu de padeiro"]
+		},
+        {
+            "question": "TEMA________ENTREVISTADORES DO FLOW PODCAST OU PODPAH PODCAST",
+            "answers": ["igao", "mitico", "monark", "igor"]
+		},
+        {
+            "question": "TEMA________ELEMENTOS DA TABELA PERIODICA COM A LETRA C",
+            "answers": ["cadmio", "calcio", "californio", "carbono", "cerio", "cesio", "chumbo", "cloro", "cobalto", "cobre", "copernicio", "criptonio", "cromio", "curio"]
+		},
+        {
+            "question": "TEMA________NOMES DOS 5 ATORES PRINCIPAIS DO FILME GENTE GRANDE (2010)",
+            "answers": ["adam sandler", "kevin james", "david spade", "chris rock", "rob schneider"]
+		},
+        {
+            "question": "TEMA________ESPORTES QUE A EMPRESA 2K PRODUZ PARA JOGOS ELETRONICO",
+            "answers": ["basquete", "tenis", "golfe"]
+		},
+        {
+            "question": "TEMA________TIPOS DE JANELAS (USE JANELA ANTES DO NOME)",
+            "answers": ["Janela maxim ar", "Janela basculante", "Janela de correr", "Janela guilhotina", "janela pivotante", "janela de tombar", "Janela fixa", "Janela veneziana", "Janela sanfonada", "Janela pivô", "Janela de abrir", "Janela báscula", "Janela de vidro temperado", "Janela de vidro laminado", "Janela de alumínio", "Janela de madeira", "Janela de ferro", "Janela de PVC", "Janela de teto", "Janela de sacada", "Janela de sótão", "Janela de mansarda", "Janela bay window", "Janela oriel window", "Janela picture window", "Janela gable window", "Janela arco pleno", "Janela arco pontiagudo", "Janela arco circular", "Janela arco de volta perfeita", "Janela arco ogival", "Janela arco segmentado"]
+		},
+        {
+            "question": "TEMA________ELENCO DO THE NOITE COM DANILO GENTILI (NOME E SOBRENOME)",
+            "answers": ["danilo gentili", "diguinho coruja", "leo lins", "murilo couto", "igor guimaraes", "juliana oliveira", "welyne oliveira", "ultraje a rigor"]
+		},
+        {
+            "question": "TEMA________OS 10 SABORES DE PIZZA MAIS PEDIDO NO BRASIL",
+            "answers": ["calabresa", "portuguesa", "marguerita", "frango com catupiry", "muçarela", "mussarela", "napolitana", "lombo canadense", "quatro queijos", "brigadeiro", "romeu e julieta"]
+		},
+        {
+            "question": "TEMA________PATENTES DO EXERCITO",
+            "answers": ["soldado", "taifeiro de segunda classe", "general", "taifeiro de primeira classe", "taifeiro mor", "cabo", "terceiro sargento", "segundo sargento", "primeiro sargento", "subtenente", "aspirante a oficial", "segundo tenente", "primeiro tenente", "capitao", "major", "general de brigada", "general de divisao", "general do exercito", "marechal"]
+		},
+        {
+            "question": "TEMA________ANIMAIS QUE ESTÃO NAS CÉDULAS BRASILEIRAS (SÓ O PRIMEIRO NOME)",
+            "answers": ["onça", "lobo", "garoupa", "tartaruga", "garça", "arara", "mico", "mico leao dourado"]
+		},
+        {
+            "question": "TEMA________ELETRODOMESTICOS",
+            "answers": ["geladeira", "fogao", "maquina de lavar roupa", "televisao", "micro ondas", "aspirador", "radio", "mixer", "ventilador", "microondas", "frigobar", "ferro de passar roupa", "vaporizador", "chaleira eletrica", "chopeira eletrica", "sanduicheira", "torradeira", "grill", "churrasqueira eletrica", "espremedor de fruta", "maquina de lavar louça", "forno eletrico", "cafeteira", "airfryer", "liquidificador", "batedeira", "planetaria", "processador de alimento"]
+		},
+        {
+            "question": "TEMA________ANIMAIS COM A LETRA V",
+            "answers": ["Vaca", "Veado", "Viúva negra", "Víbora", "Vaca marinha", "Vombate", "Vespa", "Vaivém", "Viveiro", "Vombate", "Víscera", "Vicunha", "Verdilhão", "Vespão", "Vipera", "Viúvo", "Verruga", "Vagalume", "Verdinho", "Vulpino", "Veado catingueiro", "Veado bororó", "Veado campeiro", "Veado catingueiro"]
+		},
+        {
+            "question": "TEMA________MARCAS DE CAMINHÃO",
+            "answers": ["Volvo", "Scania", "Mercedes Benz", "Volkswagen", "MAN", "sisu", "Iveco", "DAF", "mitsubishi", "suzuki", "Renault Trucks", "Renault", "Ford", "Dodge", "Chevrolet", "Fiat", "Isuzu", "Mitsubishi Fuso", "Hino", "International", "Kenworth", "Peterbilt", "Mack", "Mack Trucks", "GMC", "Western Star"]
+		},
+        {
+            "question": "TEMA________ANIMAIS DA AGROPECUARIA",
+            "answers": ["Boi", "Vaca", "pinto", "ponei", "jumento", "Porco", "Porca", "Galinha", "Galo", "Frango", "Franga", "Galinha da angola", "Ganso", "Pato", "Ovelha", "Carneiro", "Cabra", "Bode", "Égua", "Cavalo", "Burro", "Burra"]
+		},
+        {
+            "question": "TEMA________O NILTON CHAMOU AGNES E HUGO PARA FESTA DO JAILSON, DEFINA UM SUJEITO SIMPLES DA FRASE",
+            "answers": ["nilton", "agnes", "hugo", "jailson"]
+		},
+        {
+            "question": "TEMA________OS 3 ELEMENTOS BASICOS DA MUSICA",
+            "answers": ["melodia", "harmonia", "ritmo"]
+		},
+        {
+            "question": "TEMA________OS 4 NAIPES DO BARALHO (NO PLURAL)",
+            "answers": ["espadas", "paus", "copas", "ouros"]
+		},
+        {
+            "question": "TEMA________AS 3 PRINCIPAIS ORAÇÕES CATÓLICAS",
+            "answers": ["pai nosso", "sinal da cruz", "gloria ao pai"]
+		},
+        {
+            "question": "TEMA________OS 3 ESQUILOS DE ALVIN E OS ESQUILOS",
+            "answers": ["simon", "alvin", "theodore"]
+		},
+        {
+            "question": "TEMA________AS 3 PENEIRAS DE SOCRATES",
+            "answers": ["verdade", "bondade", "utilidade"]
+		},
+        {
+            "question": "TEMA________OBJETOS COM A LETRA L",
+            "answers": ["Lápis", "laço", "lente", "leque", "lona", "luneta", "lustre", "lacre", "lança", "lanceta", "lancheira", "lantejoula", "lata", "lamina", "lampâda", "lamparina", "lampiao", "Lanterna", "Livro", "Luminária", "Lençol", "Liquidificador", "Lixeira", "Lavadora", "Lâmpada", "Leiteira", "Leitor de DVD", "Lupa", "Lavatório", "Lousa", "Luva", "Leiteira", "Lenço", "Lupa", "leitor", "Lajota", "Lanterna", "Lousa", "Livro", "Lavadora de roupas", "Leitor de CD", "Lapiseira", "Laje"]
+		},
+        {
+            "question": "TEMA________VERBOS COM A LETRA N",
+            "answers": ["nacarar", "nadar", "namorar", "namoriscar", "narcotizar", "nasalar", "nastrar", "naufragar", "navegar", "neblinar", "nebulizar", "necropsiar", "nectarizar", "nectarizar", "negacear", "negativizar", "negralizar", "nenecar", "nervosizar", "neurotizar", "neviscar", "nevoentar", "nicotinar", "nigelar", "ninainar", "niponizar", "niquilar", "nitraginar", "nitretar", "nitroderivar", "nivelar", "nobilizar", "nocautear", "noctiluzir", "nacarizar", "nadificar", "namoricar", "nanar", "narigar", "nasalizar", "naturalizar", "nausear", "navelar", "nebrinar", "necear", "necrosar", "nefanalisar", "negar", "negligenciar", "negrejar", "neologismar", "nesgar", "neutralizar", "nevoaçar", "nicar", "nicotizar", "niilificar", "ninar", "niquelar", "nitidificar", "nitrar", "nitrificar", "nitrosar", "nobelizar", "nobrecer", "nocir", "noctivagar", "nacionalizar", "naipar", "namorichar", "narcisar", "narrar", "nascer", "naturar", "navalhar", "nazificar", "nebular", "necessitar", "necrotizar", "negaçar", "negativar", "negociar", "negritar", "neologizar", "neurastenizar", "nevar", "nevoar", "nichar", "nidificar", "nimbar", "ninhar", "niquelizar", "nitidizar", "nitratar", "nitrir", "nitrurar", "nobilitar", "nocar", "noctambular", "nodar", "nodoar", "noivar", "nomear", "nominalizar", "nordestinizar", "noroestear", "noscar", "notabilizar", "noticiar", "noutecer", "noviciar", "nubelar", "nuclearizar", "nunciar", "nutrificar", "nuverinhar", "nodular", "nojar", "nomenclar", "nominar", "normalizar", "norte americanizar", "nosografar", "notambular", "notificar", "novar", "novidadear", "nublar", "nulificar", "nuquear", "nutrir", "noitecer", "nomadizar", "nomenclaturar", "nordestear", "normatizar", "nortear", "nostalgizar", "notar", "noturnizar", "novelar", "nuançar", "nuclear", "numerar", "nutar", "nuvear"]
+		},
+        {
+            "question": "TEMA________RELIGIÕES",
+            "answers": ["Cristianismo", "Islamismo", "Judaísmo", "Hinduísmo", "bahaismo", "anglicanismo", "quimbanda", "Budismo", "ortodoxia", "Sikhismo", "Jainismo", "Baháí", "Taoísmo", "Xintoísmo", "Zoroastrismo", "Rastafarianismo", "Wicca", "Candomblé", "Umbanda", "Espiritismo", "Confucionismo", "Xamanismo", "Taoismo", "Paganismo", "Jainismo", "Cao Dai", "Tenrikyo", "Scientology", "Deísmo"]
+		},
+        {
+            "question": "TEMA________TIPOS DE CABELOS",
+            "answers": ["Liso", "Cacheado", "sarara", "Ondulado", "Crespo", "Afro", "Encaracolado", "Anelado", "Espiralado", "Pixie", "Bob", "Long Bob", "Chanel", "Franja", "Undercut", "Moicano", "Trança", "Rabo de cavalo", "Coque", "Dreadlocks", "Africano", "Raspado", "Curto", "Médio", "Longo", "Assimétrico", "Platinado", "Colorido", "Fios duplos", "Volumoso", "Desfiado"]
+		},
+        {
+            "question": "TEMA________CAMPEÕES DA LIBERTADORES",
+            "answers": ["independiente", "boca juniors", "penarol", "river plate", "estudiantes", "olimpia", "nacional", "flamengo", "palmeiras", "sao paulo", "santos", "gremio", "cruzeiro", "atletico nacional", "internacional", "colo colo", "racing", "argentinos juniors", "velez sarsfield", "vasco", "once caldas", "ldu quito", "ldu", "corinthians", "atletico mineiro", "san lorenzo", "fluminense"]
+		},
+        {
+            "question": "TEMA________SIGLAS DE XINGAMENTO",
+            "answers": ["tnc", "vtnc", "vsf", "fdp", "fdm", "fdpt", "pnc", "vsfd", "pqp", "cz", "crl", "krl", "tmnc", "kct", "fds", "prr", "dsgrç", "sfd"]
+		},
+        {
+            "question": "TEMA________CARGOS DA IGREJA CATOLICA",
+            "answers": ["Papa", "Cardeal", "Arcebispo", "Bispo", "Monsenhor", "Padre", "Diácono", "Freira", "Abade", "Abadessa", "Cônego", "Vigário", "Prelado", "Capelão", "Sacristão", "Missionário", "Noviço", "Pastor", "Presbítero", "Sacerdote", "Clérigo", "Ministro da Eucaristia", "Acólito", "Coroinha", "Doutor da Igreja", "Monja", "Frade", "Abade Cisterciense"]
+		},
+        {
+            "question": "TEMA________GASES NOBRES",
+            "answers": ["hélio", "neônio", "argônio", "criptônio", "xenônio", "radônio"]
+		},
+        {
+            "question": "TEMA________SISTEMAS OPERACIONAIS",
+            "answers": ["Windows", "macOS", "Linux", "Android", "iOS", "Chrome OS", "Unix", "FreeBSD", "OpenBSD", "NetBSD", "Ubuntu", "Debian", "Fedora", "Red Hat Enterprise Linux", "CentOS", "SUSE Linux Enterprise Server", "Arch Linux", "Gentoo", "Slackware", "Android Wear", "watchOS", "Tizen", "Windows Server", "Windows Embedded", "Windows Phone", "Kali Linux", "Elementary OS", "Zorin OS", "Solaris", "AIX"]
+		},
+        {
+            "question": "TEMA________CATEGORIAS DO PREMIO NOBEL",
+            "answers": ["paz", "literatura", "fisica", "quimica", "medicina", "economia"]
+		},
+        {
+            "question": "TEMA________AGENCIAS ESPACIAIS",
+            "answers": ["NASA", "ESA", "Roscosmos", "AEB", "ISRO", "CNSA", "JAXA", "CSA", "ASI", "DLR", "CNES", "UKSA", "SUPARCO", "ISA", "CONAE", "UAE Space Agency", "ROKA", "NSAU", "NRSC", "TUBITAK", "SSAU"]
+		},
+        {
+            "question": "TEMA________CORTES DE CARNE BOVINA",
+            "answers": ["Picanha", "Alcatra", "bola da pa", "Fraldinha", "bisteca", "musculo", "Coxão mole", "Coxão duro", "Contrafilé", "Filé mignon", "Maminha", "Costela", "Acém", "Paleta", "Rabo", "Lagarto", "Peixinho", "Capa de filé", "Cupim", "Patinho", "Fígado", "Língua", "Miolo de paleta"]
+		},
+        {
+            "question": "TEMA________ESPECIARIAS",
+            "answers": ["Canela", "Pimenta do reino", "Cravo da índia", "Noz moscada", "Açafrão", "cravo", "Cominho", "Cúrcuma", "Gengibre", "Páprica", "Anis estrelado", "Cardamomo", "Feno grego", "Manjericão", "Orégano", "Salsa", "Tomilho", "Alecrim", "Estragão", "Coentro", "Cebolinha", "Sálvia", "Pimenta caiena", "Pimenta jamaica", "Pimenta de caiena", "Semente de mostarda", "Aneto", "Zimbro", "Erva doce", "Pimenta síria", "Pimenta malagueta"]
+		},
+        {
+            "question": "TEMA________ANOS QUE A DITADURA MILITAR ESTEVE VIGENTE NO BRASIL",
+            "answers": ["1964", "1965", "1966", "1967", "1968", "1969", "1970", "1971", "1972", "1973", "1974", "1975", "1976", "1977", "1978", "1979", "1980", "1981", "1982", "1983", "1984"]
+		},
+        {
+            "question": "TEMA________PAÍSES QUE SUCEDERAM A IUGOSLÁVIA",
+            "answers": ["Bósnia e Herzegovina", "croacia", "montenegro", "macedonia", "servia", "eslovenia", "kosovo"]
+		},
+        {
+            "question": "TEMA________OS 7 MARES",
+            "answers": ["adriatico", "arabico", "caspio", "mediterraneo", "negro", "vermelho", "persico"]
+		},
+        {
+            "question": "TEMA________IDIOMAS NEOLATINOS",
+            "answers": ["Português", "Espanhol", "Francês", "Italiano", "Romeno", "Catalão", "Galego", "Occitano", "Sardo", "Retorromano", "Mirandês", "Arpitan", "Ladino", "Romaniço", "Piemontês", "Lombardo", "Emiliano romanholo", "Língua franca nova", "Fala", "Judeo italiano"]
+		},
+        {
+            "question": "TEMA________GENTILICOS DO NORDESTE BRASILEIRO (NO MASCULINO)",
+            "answers": ["potiguar", "alagoano", "paraibano", "baiano", "maranhense", "piauiense", "cearense", "pernambucano", "sergipano"]
+		},
+        {
+            "question": "TEMA________PARTES DO CEREBRO",
+            "answers": ["lobo frontal", "lobo parietal", "lobo occipital", "cerebelo", "lobo temporal", "medula espinal"]
+		},
+        {
+            "question": "TEMA________ESTADOS DO BRASIL SEM LITORAL",
+            "answers": ["minas gerais", "goias", "tocantins", "mato grosso", "acre", "roraima", "rondonia", "mato grosso do sul", "amazonas"]
+		},
+        {
+            "question": "TEMA________GRANDES PRIMATAS",
+            "answers": ["humano", "gorila", "orangotango", "bonobo", "chimpanze"]
+		},
+        {
+            "question": "TEMA________BACIAS HIDROGRAFICAS DO BRASIL",
+            "answers": ["amazonica", "atlantico leste", "atlantico sudeste", "Atlântico Nordeste Ocidental", "Atlântico Nordeste Oriental", "Tocantins Araguaia", "parnaiba", "sao francisco", "atlantico sul", "paraguai", "parana", "uruguai"]
+		},
+        {
+            "question": "TEMA________TIPOS DE HOMICIDIO",
+            "answers": ["simples", "qualificado", "privilegiado", "culposo", "suicida"]
+		},
+        {
+            "question": "TEMA________TÍTULOS NOBILIÁRQUICOS",
+            "answers": ["Rei", "Rainha", "Príncipe", "imperador", "sultao", "kaiser", "csar", "Princesa", "Duque", "Duquesa", "Marquês", "Marquesa", "Conde", "Condessa", "Visconde", "Viscondessa", "Barão", "Baronesa", "Senhor", "Senhora", "Cavaleiro", "Dama", "Nobre", "Nobreza"]
+        }
+    ]
+}
